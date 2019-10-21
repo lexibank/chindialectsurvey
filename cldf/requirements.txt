@@ -1,0 +1,87 @@
+appdirs==1.4.3
+atomicwrites==1.2.1
+bs4==0.0.1
+certifi==2018.8.24
+chardet==3.0.4
+-e git+https://github.com/cldf/cldfbench.git@1edf7eef357ca8e318a017c25c9ee082b3fb5e5e#egg=cldfbench
+cldfcatalog==1.2.0
+colorlog==3.1.4
+configparser==3.5.0
+dbfread==2.0.7
+decorator==4.3.0
+defusedxml==0.5.0
+idna==2.7
+isodate==0.6.0
+jdcal==1.4.1
+-e git+https://github.com/lexibank/abrahammonpa@8ac9ab623b6f3df38fa287cb76b476f5449425fe#egg=lexibank_abrahammonpa
+-e git+https://github.com/lexibank/allenbai.git@f49465e5f39c4c3743dd248656b89fe77ec763dc#egg=lexibank_allenbai
+-e git+https://github.com/lexibank/backstromnorthernpakistan@3b30ee6107e4ddc8b7edfb1329de4e462648664c#egg=lexibank_backstromnorthernpakistan
+-e git+https://github.com/lexibank/bantubvd.git@47588bdba60a31442873e772000585e68c318587#egg=lexibank_bantubvd
+-e git+https://github.com/lexibank/beidasinitic.git@c545de93d855e8468f3ce4b7880fb8a9978b5205#egg=lexibank_beidasinitic
+-e git+https://github.com/lexibank/beidazihui.git@8b6338d697480f77e01b838fc847d5a30a96a098#egg=lexibank_beidazihui
+-e git+https://github.com/lingpy/bodtkhobwa/@bf0d64e476bf16a7ae3ea54f68fffb4f8e8f14ee#egg=lexibank_bodtkhobwa
+-e git+https://github.com/lexibank/castrosui.git@c84a6ff7cb8028db22c334f53230db14aacc5c38#egg=lexibank_castrosui
+-e git+https://github.com/lexibank/castroyi.git@e3025a05d7900e7607428f16c7e94dc74f8577f5#egg=lexibank_castroyi
+-e git+https://github.com/lexibank/castrozhuang.git@f072ca3d47cb34b6a2e80712d54141767a0ca19c#egg=lexibank_castrozhuang
+-e git+https://github.com/lexibank/chenhmongmien@46ade560d83838cdbb8c5502ae0a1b01a13904fa#egg=lexibank_chenhmongmien
+-e git+https://github.com/lexibank/dagloans.git@9bd9f27288d21c0cf559d1a6e45a362dab598862#egg=lexibank_dagloans
+-e git+https://github.com/lexibank/halenepal.git@d865b8567c917ed15a4d21a4797a473595528d5e#egg=lexibank_halenepal
+-e git+https://github.com/lingpy/language-island-paper.git@253ef68f9079fcdc17723c5400c983fc86c37a03#egg=lexibank_hantganbangime
+-e git+https://github.com/lexibank/houzihui.git@fe682373fde3f2e95cfb41df7393903c4e03866e#egg=lexibank_houzihui
+-e git+https://github.com/lexibank/hubercolumbian.git@e9e33353474957a5370a8a1787361cb5462b79e3#egg=lexibank_hubercolumbian
+-e git+https://github.com/lexibank/kraftchadic.git@e23215e74eb9a24447125f37e611d365ef5f643c#egg=lexibank_kraftchadic
+-e git+https://github.com/lexibank/lieberherrkhobwa.git@1985e1f912b2454cfcaa45611b488c95e31ff04c#egg=lexibank_lieberherrkhobwa
+-e git+https://github.com/lexibank/liusinitic.git@e02ce8233312ac47b13292c14ffb8c4cbe061684#egg=lexibank_liusinitic
+-e git+https://github.com/lexibank/logos.git@f9821324ebd4f2271817618ffd8bffd1322004e3#egg=lexibank_logos
+-e git+https://github.com/lexibank/marrisonnaga.git@aa8ffaae2fde0e1f2e9e4c4aca981f75aa649a1e#egg=lexibank_marrisonnaga
+-e git+https://github.com/lexibank/mitterhoferbena.git@ff18f0c6ca6c7445eab21e091db30bcdbc1891fe#egg=lexibank_mitterhoferbena
+-e git+https://github.com/lexibank/mortensentangkhulic.git@64fc22c1b7e613d06e932f95bbd969cef63e94ea#egg=lexibank_mortensentangkhulic
+-e git+https://github.com/lexibank/naganorgyalrongic@a80bcecf4199796c7b6dcf7c04f506d74787d4a4#egg=lexibank_naganorgyalrongic
+-e git+https://github.com/lexibank/northeuralex.git@97580ad5ab128ebb47077be7b8d59332b1f67e80#egg=lexibank_northeuralex
+-e git+https://github.com/lexibank/robinsonap@ba816dc2811b39be8103aa1eadcf2d0272af0e8c#egg=lexibank_robinsonap
+-e git+https://github.com/digling/sinotibetan-data.git@9488b83bc5cb4d443bf9f3b81c20711a95b772c6#egg=lexibank_sagartst
+-e git+https://github.com/lexibank/satterthwaitetb.git@38c40d902321060070b42d38ab5e17d3a3f160de#egg=lexibank_satterthwaitetb
+-e git+https://github.com/lexibank/savelyevturkic.git@d8a0765d94dffc14576468886270f527ac41acb0#egg=lexibank_savelyevturkic
+-e git+https://github.com/lexibank/sohartmannchin.git@c855cad6440238941afa2fbe64c684ab19a5d653#egg=lexibank_sohartmannchin
+-e git+https://github.com/lexibank/suntb.git@f8786aebbf9ad26e4870d80a401f9691fd5a66db#egg=lexibank_suntb
+-e git+https://github.com/lexibank/tls.git@8dcdfbdeb47806c08eb3a82190574a5aadf9859e#egg=lexibank_tls
+-e git+https://github.com/lexibank/transnewguineaorg.git@2124056577b56ce98cb701e7c032facf9d2b7071#egg=lexibank_transnewguineaorg
+-e git+https://github.com/lexibank/vanbikkukichin/@b8f36cc927b8ef118797c5156db6963c03c0ca65#egg=lexibank_vanbikkukichin
+-e git+https://github.com/lexibank/walworthpolynesian.git@f94b44826f3a8c38a1827b51eba97c1c8e7e9c14#egg=lexibank_walworthpolynesian
+-e git+https://github.com/lexibank/wangbai.git@6efa182a9fa45fbdd482a7951cefec52eeb789af#egg=lexibank_wangbai
+-e git+https://github.com/lexibank/yanglalo/@38045ec6bed852ec4a61a71d3adc8b9351bf83ce#egg=lexibank_yanglalo
+-e git+https://github.com/lexibank/zgraggenmadang.git@488ecd5f26cf1b19b795e64c3a01d88c20aebcbe#egg=lexibank_zgraggenmadang
+-e git+https://github.com/LinguList/lingpy.git@2a1671c1b65886e1d33eccd74818b29bc4ce73dd#egg=lingpy
+lxml==4.2.4
+Markdown==2.6.11
+networkx==2.2
+newick==0.9.2
+numpy==1.15.1
+openpyxl==2.6.4
+pathlib2==2.3.2
+pluggy==0.8.0
+purl==1.5
+py==1.7.0
+pybtex==0.22.2
+-e git+https://github.com/glottobank/pycldf.git@d9ded987084c9fa6e68d9d6281261e237366fc85#egg=pycldf
+-e git+https://github.com/cldf/clts/@467853d4af57a3ddb3a6d544e88c1bf89976c3bc#egg=pyclts
+-e git+https://github.com/concepticon/pyconcepticon.git@17fc11f8f5e97b0750269bf9c4865352b6608d72#egg=pyconcepticon
+pycountry==18.12.8
+-e git+https://github.com/clld/pyglottolog.git@0f24f24a46d1f510c975337e4c0d8c23b357c8bd#egg=pyglottolog
+-e git+https://github.com/lexibank/pylexibank@cbba6c089f730d2118dc36bda829486318cbe0a5#egg=pylexibank
+pytest==4.0.0
+regex==2018.8.29
+requests==2.19.1
+rfc3986==1.1.0
+scipy==1.2.0
+six==1.11.0
+soupsieve==1.9.2
+SQLAlchemy==1.2.13
+tabulate==0.8.2
+termcolor==1.1.0
+tqdm==4.25.0
+Unidecode==1.0.22
+uritemplate==3.0.0
+urllib3==1.23
+wcwidth==0.1.7
+xlrd==1.1.0

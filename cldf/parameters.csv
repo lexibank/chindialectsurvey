@@ -1,0 +1,461 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,AlternativeName
+1,sky,,,sky
+2,sun,,,sun
+3,moon,,,moon
+4,star,,,star
+5,cloud,,,cloud (rain)
+6,"mist, fog",,,mist/fog
+7,rain,,,rain
+8,rainbow,,,rainbow
+9,lightning,,,lightning (flashing)
+10,thunder,,,thunder
+11,shadow,,,shadow/shade
+12,wind,,,wind
+13,night,,,night
+14,day,,,day
+15,morning,,,morning
+16,noon,,,noon
+17,yesterday,,,yesterday
+18,tomorrow,,,tomorrow
+19,year,,,year
+20,east,,,east
+21,west,,,west
+22,water,,,water
+23,to be hot (water),,,to be hot (water)
+24,to be hot (person),,,to be hot (person)
+25,to be warm(water),,,to be warm (water)
+26,to be cold (person),,,to be cold (person)
+27,to be cold (water),,,to be cool (water)
+28,stream,,,stream
+29,river,,,river
+30,sea,,,sea
+31,soil (earth),,,soil (earth)
+32,mud,,,mud
+33,dust,,,dust
+34,stone,,,stone
+35,sand,,,sand
+36,lime,,,lime (for betel chew)
+37,gold,,,gold
+38,silver,,,silver
+39,iron,,,iron
+40,mountain,,,mountain
+41,cave,,,cave (natural)
+42,forest,,,jungle/forest
+43,tree,,,tree
+44,branch,,,branch (tree)
+45,tree bark,,,tree bark
+46,thorn,,,thorn
+47,root,,,root (tree)
+48,leaf,,,leaf (tree)
+49,flower,,,flower
+50,fruit,,,fruit (tree)
+51,seed,,,seed (tree)
+52,grass,,,grass (field/jungle)
+53,bamboo shoot,,,bamboo plant (large)
+54,mushroom,,,bamboo shoot (edible)
+55,cane/,,,mushroom
+56,kapok,,,cane/rattan
+57,sugercane,,,kapok
+58,betel nut,,,sugarcane
+59,opium,,,betel nut
+60,bamboo plant,,,opium
+61,"rice, millet beer",,,(rice/millet) beer
+62,banana,,,banana (fruit)
+63,mango,,,mango (fruit)
+64,egg plant,,,eggplant (fruit)
+65,soy bean,,,soy bean
+66,ginger,,,ginger
+67,garlic,,,garlic
+68,corn,,,corn
+69,red pepper,,,red pepper
+70,dry field,,,dry (burned) field
+71,wet rice field,,,wet rice field
+72,paddy rice,,,paddy rice
+73,rice seedling,,,rice seedling
+74,to be ripe,,,to be ripe
+75,pounded rice,,,pounded rice
+76,cooked rice,,,cooked rice
+77,to winow,,,to winnow (rice)
+78,to dry (rice),,,to dry (rice)
+79,to pound (rice),,,to pound (rice)
+80,to grind,,,to grind
+81,to cook (rice),,,to cook (rice)
+82,to boil,,,to boil (rice)
+83,rice husk,,,rice husk (powder)
+84,salt,,,salt
+85,animal,,,animal (tame/wild)
+86,tiger,,,tiger
+87,pangolin,,,pangolin
+88,bear,,,bear
+89,barking deer,,,barking deer
+90,monkey,,,monkey
+91,gibbon,,,gibbon
+92,rabbit,,,rabbit
+93,porcupine,,,porcupine
+94,rat,,,rat
+95,dog,,,dog
+96,to bark,,,to bark
+97,to bite,,,to bite
+98,cat,,,cat
+99,pig,,,pig
+100,cow,,,cow
+101,milk,,,milk (cow)
+102,buffalo,,,buffalo
+103,horn (buffalo),,,horn (of buffalo)
+104,tail,,,tail
+105,elephant,,,elephant
+106,elephant task,,,elephant tusk
+107,bird,,,bird
+108,pigeon,,,pigeon
+109,birdʼs nest,,,bird's nest
+110,wing,,,wing
+111,feather,,,feather (body hair)
+112,to fly,,,to fly
+113,egg,,,egg
+114,chicken,,,chicken
+115,crest,,,crest (of chicken or bird)
+116,fish,,,fish
+117,snake,,,snake
+118,poison,,,poison (from snake)
+119,house lizard,,,house lizard
+120,turtle,,,turtle
+121,crocodile,,,crocodile
+122,otter,,,otter
+123,frog,,,frog
+124,insect,,,insect
+125,spider,,,spider
+126,spider web,,,spider web
+127,louse (head),,,louse (head)
+128,termite,,,termite
+129,ant,,,ant
+130,cocroach,,,cockroach
+131,snail,,,snail
+132,mosquito,,,mosquito
+133,bee,,,bee
+134,fly,,,fly
+135,butterfly,,,butterfly
+136,scorpion,,,scorpion
+137,water leech,,,water leech
+138,land leech,,,land leech
+139,earth worm,,,earthworm
+140,head,,,head
+141,face,,,face
+142,brain,,,brain
+143,hair (head),,,hair (head)
+144,hair (body),,,body hair
+145,forehead,,,forehead
+146,eyebrow,,,eyebrow
+147,eye,,,eye
+148,eyelid,,,eyelid
+149,nose,,,nose
+150,cheek,,,cheek
+151,ear,,,ear
+152,mouth,,,mouth
+153,tongue,,,tongue
+154,spit (N),,,spit (noun)
+155,tooth,,,tooth
+156,guᵐs,,,gums
+157,chin,,,chin
+158,beard,,,beard
+159,to shave,,,to shave (beard)
+160,neck,,,neck
+161,shoulder,,,shoulder
+162,back,,,back
+163,belly,,,belly
+164,navel,,,navel
+165,heart,,,heart
+166,liver,,,liver
+167,intestines,,,intestines
+168,arm,,,arm
+169,elbow,,,elbow
+170,arᵐpit,,,armpit
+171,palm,,,palm
+172,finger,,,finger
+173,finger nail,,,fingernail
+174,leg,,,leg
+175,thigh,,,thigh
+176,knee,,,knee
+177,calf,,,calf
+178,shin,,,shin
+179,heel,,,heel
+180,bone,,,bone
+181,joint,,,joint
+182,marrow,,,marrow
+183,rib,,,rib
+184,"meat, flesh",,,meat/flesh (edible)
+185,fat,,,fat/grease
+186,skin,,,skin
+187,blood,,,blood
+188,sweat,,,sweat
+189,pus,,,pus
+190,excrement,,,excrement
+191,urine,,,urine
+192,man,,,man
+193,woman,,,woman
+194,person,,,person
+195,father,,,father
+196,mother,,,mother
+197,to be old (person),,,to be old (person)
+198,child,,,child (young person)
+199,son,,,son (one’s own male child)
+200,son-in-law,,,son-in-law
+201,husbanc,,,husband
+202,wife,,,wife
+203,widow,,,widow
+204,elder brother (of female),,,brother (elder of f)
+205,elder brother (of male),,,brother (elder of m)
+206,elder sister (of female),,,sister (elder of f)
+207,elder sister (of male),,,sister (elder of m)
+208,younger brother (of female),,,brother (younger of f)
+209,younger brother (of male),,,brother (younger of m)
+210,younger sister (of female),,,sister (younger of f)
+211,younger sister (of male),,,sister (younger of m)
+212,friend,,,friend
+213,name,,,name
+214,village,,,village
+215,road,,,road/path
+216,boat,,,boat
+217,house,,,house
+218,door,,,door
+219,roof,,,roof
+220,area under house,,,area under house
+221,wall (house),,,wall of house
+222,sleeping area,,,sleeping area
+223,mat,,,mat
+224,pillow,,,pillow
+225,blanket,,,blanket
+226,clothing,,,clothing
+227,to weave,,,to weave (cloth)
+228,to dye,,,to dye (cloth)
+229,sarong (M),,,sarong (male)
+230,sarong (F),,,sarong (female)
+231,trousers,,,trousers
+232,to sew,,,to sew
+233,needle,,,needle
+234,comb,,,comb
+235,ring,,,ring
+236,pot (cooking),,,pot (cooking)
+237,mortar,,,mortar (for peppers)
+238,pestle,,,pestle (for peppers)
+239,spoon,,,spoon
+240,plate,,,plate
+241,firewood,,,firewood
+242,fire,,,fire
+243,to burn something,,,to burn something
+244,to extinguish,,,to extinguish (fire)
+245,ashes,,,ashes
+246,smoke,,,smoke
+247,drum,,,drum (musical instrument)
+248,gongs,,,gong
+249,bow,,,bow
+250,crossbow,,,crossbow
+251,arrow,,,arrow
+252,spear,,,spear
+253,knife,,,knife/blade
+254,to hear,,,to hear
+255,to listen,,,to listen
+256,to be smelly,,,to be smelly
+257,to smell (something),,,to smell (sniff)
+258,to see,,,to see
+259,to look at,,,to look at
+260,to weep,,,to weep
+261,to eat,,,to eat
+262,to swallow,,,to swallow
+263,to be hungry,,,to be hungry
+265,to be thirsty,,,to be thirsty
+266,to drink,,,to drink
+267,to be drunk,,,to be drunk (alcohol)
+268,to vomit,,,to vomit
+269,to spit,,,to spit
+270,to cough,,,to cough
+271,to sneeze,,,to sneeze
+272,to yarwn,,,to yawn
+273,to breathe,,,to breathe
+274,to blow,,,to blow (on the fire)
+275,to whistle,,,to whistle
+276,to suck (milk),,,to suck (milk)
+277,to lick,,,to lick
+278,to smile,,,to smile
+279,to laugh,,,to laugh
+280,to speak,,,to speak
+281,to tell about,,,to tell about
+282,to shout,,,to shout
+283,"to lie, fib",,,to lie/fib
+284,to sing,,,to sing
+285,to think,,,to think
+286,to know,,,to know
+287,to forget,,,to forget
+288,to choose,,,to choose
+289,to love,,,to love
+290,to hate,,,to hate
+291,to be ashamed,,,to be ashamed
+292,to wait,,,to wait
+293,to count,,,to count
+294,to be afraid,,,to be afraid
+295,to be angry,,,to be angry
+296,to sleep,,,to sleep
+297,to snore,,,to snore
+298,to dream,,,to dream
+299,to get up,,,to get up (from bed)
+300,to be hurt,,,to be hurt (after hitting finger with hammer)
+301,medicine,,,medicine
+302,to be itchy,,,to be itchy
+303,to scratch (self),,,to scratch oneself
+304,to shiver,,,to shiver
+305,to die,,,to die
+306,gost,,,ghost
+307,to sit,,,to sit (remain)
+308,to stand (standing),,,to stand (remain)
+309,to kneel,,,to kneel
+310,to walk,,,to walk
+311,to crowl,,,to crawl on belly (like a snake)
+312,to go,,,to go
+313,to come,,,to come
+314,to return,,,to return
+315,to run,,,to run
+316,to ascend,,,to ascend
+317,to descend,,,to descend
+318,to enter,,,to enter (house)
+319,to go out,,,to go out / exit (house)
+320,to push,,,to push
+321,to pull,,,to pull
+322,to kick,,,to kick
+323,to throw,,,to throw
+324,to fall,,,to fall (from a height)
+325,to swim,,,to swim
+326,to float,,,to float
+327,to submerge,,,to submerge something
+328,to flow,,,to flow (river)
+329,to give,,,to give
+330,to tie,,,to tie (something)
+331,to wipe,,,to wipe
+332,"to rub, scrub",,,to rub/scrub
+333,to wash,,,to wash (hands)
+334,to wash (clothes),,,to wash (clothes)
+335,to bathe,,,to bathe
+336,"to hit, beat",,,to hit/beat (with force)
+337,to split,,,to split
+338,to slice,,,to slice/saw
+339,to cut (hair),,,to cut (hair)
+340,to stab,,,to stab
+341,to plant,,,to plant
+342,to dig,,,to dig (with a tool)
+343,to bury,,,to bury (a corpse)
+344,to work,,,to work
+345,to play,,,to play
+346,to dance,,,to dance
+347,to shoot,,,to shoot (gun)
+348,to hunt,,,to hunt
+349,to kill,,,to kill
+350,to fight,,,to fight (hand-to-hand)
+351,to buy,,,to buy
+352,to sell,,,to sell
+353,to exchange,,,to exchange
+354,to pay,,,to pay
+355,to steal,,,to steal
+356,to hide(self),,,to hide oneself
+357,one,,,one (person)
+358,two,,,two (persons)
+359,three,,,three (persons)
+360,four,,,four (persons)
+361,five,,,five (persons)
+362,six,,,six (persons)
+363,seven,,,seven (persons)
+364,eight,,,eight (persons)
+365,nine,,,nine (persons)
+366,ten,,,ten (persons)
+367,twenty,,,twenty (persons)
+368,hundred,,,hundred (persons)
+369,one thousand,,,thousand (persons)
+370,to be many,,,to be many (people)
+371,all,,,all
+372,some,,,some (people)
+373,to be few,,,to be few (people)
+374,half,,,half (quantity)
+375,to be big,,,to be big
+376,to be small,,,to be small
+377,to be long,,,to be long
+379,to be tall,,,to be tall
+380,to be short,,,to be short (height)
+381,to be thick,,,to be thick (thing)
+382,to be thin,,,to be thin (thing)
+383,to be fat,,,to be fat (person)
+384,to be skiny,,,to be skinny (person)
+385,to be wide,,,to be wide/broad
+386,to be narrow,,,to be narrow
+387,to be deep,,,to be deep
+388,to be shallow,,,to be shallow
+389,to be round,,,to be round
+390,to be full,,,to be full (container)
+391,right side,,,right side
+392,left side,,,left side
+393,to be straight,,,to be straight (road)
+394,to be far,,,to be far (village many miles away)
+395,to be near,,,to be near (village very near)
+396,this,,,this
+397,that,,,that
+398,black,,,black
+399,white,,,white
+400,red,,,red
+401,green,,,green
+402,yellow,,,yellow
+403,to be dirty,,,to be dirty (clothes)
+404,to be new,,,to be new (things)
+405,to be old,,,to be old (things)
+406,to be dark,,,to be dark (outside)
+407,to shine,,,to shine (flashlight)
+408,to be the same,,,to be the same
+409,to be sweet,,,to be sweet
+410,to be sour,,,to be sour
+411,to be bitter,,,to be bitter
+412,to be spicy,,,to be spicy
+413,to be rotten,,,to be rotten
+414,to be swollen,,,to be swollen
+415,to be dry,,,to be dry (rice)
+416,to be wet,,,to be wet (with water)
+417,to be sharp,,,to be sharp
+418,to be blunt,,,to be blunt
+419,to be heavy,,,to be heavy
+420,to be light,,,to be light
+421,to be hard,,,to be hard (rock)
+422,to be soft,,,to be soft (cotton)
+423,to be smooth,,,to be smooth (road)
+424,to be rough,,,to be rough (road)
+425,to be fast,,,to be fast
+426,to be slow,,,to be slow
+427,to be strong,,,to be strong
+428,to be weak,,,to be weak
+429,to be tired,,,to be tired
+430,to be ill,,,"to be ill, sick"
+431,to be blind,,,to be blind
+432,to be deaf,,,to be deaf
+433,to be bald,,,bald
+434,to be good,,,to be good
+435,to be bad,,,to be bad
+436,to be correct,,,to be correct
+437,to be wrong,,,to be wrong
+438,when (past),,,when (past)
+439,when (future),,,when (future)
+440,where,,,where
+441,who,,,who
+442,what,,,what
+443,how many,,,how many (persons)
+444,I,,,I (1s)
+445,you (sg),,,you (2s)
+446,"he, she",,,he/she (3s)
+447,we (pl),,,we (1p)
+448,you(pl),,,you (2p)
+449,they,,,they (3p)
+450,to take,,,to take
+451,"to put, place",,,to put/place
+452,to be lost,,,to be lost or disappear
+453,to bend,,,to bend
+454,to lift,,,to lift
+455,"to do, make",,,to do/make (something)
+456,don't do it,,,don't do it
+457,to be difficult,,,to be difficult
+458,to be easy,,,to be easy
+459,to be loose,,,to be loose
+460,to be tight,,,to be tight
+461,to set free,,,"to set free, let go (animal)"
+462,to squeeze,,,to squeeze

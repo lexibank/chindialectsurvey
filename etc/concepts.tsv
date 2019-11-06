@@ -1,463 +1,463 @@
-ID	NUMBER	ENGLISH	AlternativeName
-1	1	sky	sky
-2	2	sun	sun
-3	3	moon	moon
-4	4	star	star
-5	5	cloud	cloud (rain)
-6	6	mist, fog	mist/fog
-7	7	rain	rain
-8	8	rainbow	rainbow
-9	9	lightning	lightning (flashing)
-10	10	thunder	thunder
-11	11	shadow	shadow/shade
-12	12	wind	wind
-13	13	night	night
-14	14	day	day
-15	15	morning	morning
-16	16	noon	noon
-17	17	yesterday	yesterday
-18	18	tomorrow	tomorrow
-19	19	year	year
-20	20	east	east
-21	21	west	west
-22	22	water	water
-23	23	to be hot (water)	to be hot (water)
-24	24	to be hot (person)	to be hot (person)
-25	25	to be warm(water)	to be warm (water)
-26	26	to be cold (person)	to be cold (person)
-27	27	to be cold (water)	to be cool (water)
-28	28	stream	stream
-29	29	river	river
-30	30	sea	sea
-31	31	soil (earth)	soil (earth)
-32	32	mud	mud
-33	33	dust	dust
-34	34	stone	stone
-35	35	sand	sand
-36	36	lime	lime (for betel chew)
-37	37	gold	gold
-38	38	silver	silver
-39	39	iron	iron
-40	40	mountain	mountain
-41	41	cave	cave (natural)
-42	42	forest	jungle/forest
-43	43	tree	tree
-44	44	branch	branch (tree)
-45	45	tree bark	tree bark
-46	46	thorn	thorn
-47	47	root	root (tree)
-48	48	leaf	leaf (tree)
-49	49	flower	flower
-50	50	fruit	fruit (tree)
-51	51	seed	seed (tree)
-52	52	grass	grass (field/jungle)
-53	53	bamboo shoot	bamboo plant (large)
-54	54	mushroom	bamboo shoot (edible)
-55	55	cane/	mushroom
-56	56	kapok	cane/rattan
-57	57	sugercane	kapok
-58	58	betel nut	sugarcane
-59	59	opium	betel nut
-60	60	bamboo plant	opium
-61	61	rice, millet beer	(rice/millet) beer
-62	62	banana	banana (fruit)
-63	63	mango	mango (fruit)
-64	64	egg plant	eggplant (fruit)
-65	65	soy bean	soy bean
-66	66	ginger	ginger
-67	67	garlic	garlic
-68	68	corn	corn
-69	69	red pepper	red pepper
-70	70	dry field	dry (burned) field
-71	71	wet rice field	wet rice field
-72	72	paddy rice	paddy rice
-73	73	rice seedling	rice seedling
-74	74	to be ripe	to be ripe
-75	75	pounded rice	pounded rice
-76	76	cooked rice	cooked rice
-77	77	to winow	to winnow (rice)
-78	78	to dry (rice)	to dry (rice)
-79	79	to pound (rice)	to pound (rice)
-80	80	to grind	to grind
-81	81	to cook (rice)	to cook (rice)
-82	82	to boil	to boil (rice)
-83	83	rice husk	rice husk (powder)
-84	84	salt	salt
-85	85	animal	animal (tame/wild)
-86	86	tiger	tiger
-87	87	pangolin	pangolin
-88	88	bear	bear
-89	89	barking deer	barking deer
-90	90	monkey	monkey
-91	91	gibbon	gibbon
-92	92	rabbit	rabbit
-93	93	porcupine	porcupine
-94	94	rat	rat
-95	95	dog	dog
-96	96	to bark	to bark
-97	97	to bite	to bite
-98	98	cat	cat
-99	99	pig	pig
-100	100	cow	cow
-101	101	milk	milk (cow)
-102	102	buffalo	buffalo
-103	103	horn (buffalo)	horn (of buffalo)
-104	104	tail	tail
-105	105	elephant	elephant
-106	106	elephant task	elephant tusk
-107	107	bird	bird
-108	108	pigeon	pigeon
-109	109	birdʼs nest	bird's nest
-110	110	wing	wing
-111	111	feather	feather (body hair)
-112	112	to fly	to fly
-113	113	egg	egg
-114	114	chicken	chicken
-115	115	crest	crest (of chicken or bird)
-116	116	fish	fish
-117	117	snake	snake
-118	118	poison	poison (from snake)
-119	119	house lizard	house lizard
-120	120	turtle	turtle
-121	121	crocodile	crocodile
-122	122	otter	otter
-123	123	frog	frog
-124	124	insect	insect
-125	125	spider	spider
-126	126	spider web	spider web
-127	127	louse (head)	louse (head)
-128	128	termite	termite
-129	129	ant	ant
-130	130	cocroach	cockroach
-131	131	snail	snail
-132	132	mosquito	mosquito
-133	133	bee	bee
-134	134	fly	fly
-135	135	butterfly	butterfly
-136	136	scorpion	scorpion
-137	137	water leech	water leech
-138	138	land leech	land leech
-139	139	earth worm	earthworm
-140	140	head	head
-141	141	face	face
-142	142	brain	brain
-143	143	hair (head)	hair (head)
-144	144	hair (body)	body hair
-145	145	forehead	forehead
-146	146	eyebrow	eyebrow
-147	147	eye	eye
-148	148	eyelid	eyelid
-149	149	nose	nose
-150	150	cheek	cheek
-151	151	ear	ear
-152	152	mouth	mouth
-153	153	tongue	tongue
-154	154	spit (N)	spit (noun)
-155	155	tooth	tooth
-156	156	guᵐs	gums
-157	157	chin	chin
-158	158	beard	beard
-159	159	to shave	to shave (beard)
-160	160	neck	neck
-161	161	shoulder	shoulder
-162	162	back	back
-163	163	belly	belly
-164	164	navel	navel
-165	165	heart	heart
-166	166	liver	liver
-167	167	intestines	intestines
-168	168	arm	arm
-169	169	elbow	elbow
-170	170	arᵐpit	armpit
-171	171	palm	palm
-172	172	finger	finger
-173	173	finger nail	fingernail
-174	174	leg	leg
-175	175	thigh	thigh
-176	176	knee	knee
-177	177	calf	calf
-178	178	shin	shin
-179	179	heel	heel
-180	180	bone	bone
-181	181	joint	joint
-182	182	marrow	marrow
-183	183	rib	rib
-184	184	meat, flesh	meat/flesh (edible)
-185	185	fat	fat/grease
-186	186	skin	skin
-187	187	blood	blood
-188	188	sweat	sweat
-189	189	pus	pus
-190	190	excrement	excrement
-191	191	urine	urine
-192	192	man	man
-193	193	woman	woman
-194	194	person	person
-195	195	father	father
-196	196	mother	mother
-197	197	to be old (person)	to be old (person)
-198	198	child	child (young person)
-199	199	son	son (one’s own male child)
-200	200	son-in-law	son-in-law
-201	201	husbanc	husband
-202	202	wife	wife
-203	203	widow	widow
-204	204	elder brother (of female)	brother (elder of f)
-205	205	elder brother (of male)	brother (elder of m)
-206	206	elder sister (of female)	sister (elder of f)
-207	207	elder sister (of male)	sister (elder of m)
-208	208	younger brother (of female)	brother (younger of f)
-209	209	younger brother (of male)	brother (younger of m)
-210	210	younger sister (of female)	sister (younger of f)
-211	211	younger sister (of male)	sister (younger of m)
-212	212	friend	friend
-213	213	name	name
-214	214	village	village
-215	215	road	road/path
-216	216	boat	boat
-217	217	house	house
-218	218	door	door
-219	219	roof	roof
-220	220	area under house	area under house
-221	221	wall (house)	wall of house
-222	222	sleeping area	sleeping area
-223	223	mat	mat
-224	224	pillow	pillow
-225	225	blanket	blanket
-226	226	clothing	clothing
-227	227	to weave	to weave (cloth)
-228	228	to dye	to dye (cloth)
-229	229	sarong (M)	sarong (male)
-230	230	sarong (F)	sarong (female)
-231	231	trousers	trousers
-232	232	to sew	to sew
-233	233	needle	needle
-234	234	comb	comb
-235	235	ring	ring
-236	236	pot (cooking)	pot (cooking)
-237	237	mortar	mortar (for peppers)
-238	238	pestle	pestle (for peppers)
-239	239	spoon	spoon
-240	240	plate	plate
-241	241	firewood	firewood
-242	242	fire	fire
-243	243	to burn something	to burn something
-244	244	to extinguish	to extinguish (fire)
-245	245	ashes	ashes
-246	246	smoke	smoke
-247	247	drum	drum (musical instrument)
-248	248	gongs	gong
-249	249	bow	bow
-250	250	crossbow	crossbow
-251	251	arrow	arrow
-252	252	spear	spear
-253	253	knife	knife/blade
-254	254	to hear	to hear
-255	255	to listen	to listen
-256	256	to be smelly	to be smelly
-257	257	to smell (something)	to smell (sniff)
-258	258	to see	to see
-259	259	to look at	to look at
-260	260	to weep	to weep
-261	261	to eat	to eat
-262	262	to swallow	to swallow
-263	263	to be hungry	to be hungry
-264	264	to be full	to be full (after eating)
-265	265	to be thirsty	to be thirsty
-266	266	to drink	to drink
-267	267	to be drunk	to be drunk (alcohol)
-268	268	to vomit	to vomit
-269	269	to spit	to spit
-270	270	to cough	to cough
-271	271	to sneeze	to sneeze
-272	272	to yarwn	to yawn
-273	273	to breathe	to breathe
-274	274	to blow	to blow (on the fire)
-275	275	to whistle	to whistle
-276	276	to suck (milk)	to suck (milk)
-277	277	to lick	to lick
-278	278	to smile	to smile
-279	279	to laugh	to laugh
-280	280	to speak	to speak
-281	281	to tell about	to tell about
-282	282	to shout	to shout
-283	283	to lie, fib	to lie/fib
-284	284	to sing	to sing
-285	285	to think	to think
-286	286	to know	to know
-287	287	to forget	to forget
-288	288	to choose	to choose
-289	289	to love	to love
-290	290	to hate	to hate
-291	291	to be ashamed	to be ashamed
-292	292	to wait	to wait
-293	293	to count	to count
-294	294	to be afraid	to be afraid
-295	295	to be angry	to be angry
-296	296	to sleep	to sleep
-297	297	to snore	to snore
-298	298	to dream	to dream
-299	299	to get up	to get up (from bed)
-300	300	to be hurt	to be hurt (after hitting finger with hammer)
-301	301	medicine	medicine
-302	302	to be itchy	to be itchy
-303	303	to scratch (self)	to scratch oneself
-304	304	to shiver	to shiver
-305	305	to die	to die
-306	306	gost	ghost
-307	307	to sit	to sit (remain)
-308	308	to stand (standing)	to stand (remain)
-309	309	to kneel	to kneel
-310	310	to walk	to walk
-311	311	to crowl	to crawl on belly (like a snake)
-312	312	to go	to go
-313	313	to come	to come
-314	314	to return	to return
-315	315	to run	to run
-316	316	to ascend	to ascend
-317	317	to descend	to descend
-318	318	to enter	to enter (house)
-319	319	to go out	to go out / exit (house)
-320	320	to push	to push
-321	321	to pull	to pull
-322	322	to kick	to kick
-323	323	to throw	to throw
-324	324	to fall	to fall (from a height)
-325	325	to swim	to swim
-326	326	to float	to float
-327	327	to submerge	to submerge something
-328	328	to flow	to flow (river)
-329	329	to give	to give
-330	330	to tie	to tie (something)
-331	331	to wipe	to wipe
-332	332	to rub, scrub	to rub/scrub
-333	333	to wash	to wash (hands)
-334	334	to wash (clothes)	to wash (clothes)
-335	335	to bathe	to bathe
-336	336	to hit, beat	to hit/beat (with force)
-337	337	to split	to split
-338	338	to slice	to slice/saw
-339	339	to cut (hair)	to cut (hair)
-340	340	to stab	to stab
-341	341	to plant	to plant
-342	342	to dig	to dig (with a tool)
-343	343	to bury	to bury (a corpse)
-344	344	to work	to work
-345	345	to play	to play
-346	346	to dance	to dance
-347	347	to shoot	to shoot (gun)
-348	348	to hunt	to hunt
-349	349	to kill	to kill
-350	350	to fight	to fight (hand-to-hand)
-351	351	to buy	to buy
-352	352	to sell	to sell
-353	353	to exchange	to exchange
-354	354	to pay	to pay
-355	355	to steal	to steal
-356	356	to hide(self)	to hide oneself
-357	357	one	one (person)
-358	358	two	two (persons)
-359	359	three	three (persons)
-360	360	four	four (persons)
-361	361	five	five (persons)
-362	362	six	six (persons)
-363	363	seven	seven (persons)
-364	364	eight	eight (persons)
-365	365	nine	nine (persons)
-366	366	ten	ten (persons)
-367	367	twenty	twenty (persons)
-368	368	hundred	hundred (persons)
-369	369	one thousand	thousand (persons)
-370	370	to be many	to be many (people)
-371	371	all	all
-372	372	some	some (people)
-373	373	to be few	to be few (people)
-374	374	half	half (quantity)
-375	375	to be big	to be big
-376	376	to be small	to be small
-377	377	to be long	to be long
-378	378	to be short	to be short (length)
-379	379	to be tall	to be tall
-380	380	to be short	to be short (height)
-381	381	to be thick	to be thick (thing)
-382	382	to be thin	to be thin (thing)
-383	383	to be fat	to be fat (person)
-384	384	to be skiny	to be skinny (person)
-385	385	to be wide	to be wide/broad
-386	386	to be narrow	to be narrow
-387	387	to be deep	to be deep
-388	388	to be shallow	to be shallow
-389	389	to be round	to be round
-390	390	to be full	to be full (container)
-391	391	right side	right side
-392	392	left side	left side
-393	393	to be straight	to be straight (road)
-394	394	to be far	to be far (village many miles away)
-395	395	to be near	to be near (village very near)
-396	396	this	this
-397	397	that	that
-398	398	black	black
-399	399	white	white
-400	400	red	red
-401	401	green	green
-402	402	yellow	yellow
-403	403	to be dirty	to be dirty (clothes)
-404	404	to be new	to be new (things)
-405	405	to be old	to be old (things)
-406	406	to be dark	to be dark (outside)
-407	407	to shine	to shine (flashlight)
-408	408	to be the same	to be the same
-409	409	to be sweet	to be sweet
-410	410	to be sour	to be sour
-411	411	to be bitter	to be bitter
-412	412	to be spicy	to be spicy
-413	413	to be rotten	to be rotten
-414	414	to be swollen	to be swollen
-415	415	to be dry	to be dry (rice)
-416	416	to be wet	to be wet (with water)
-417	417	to be sharp	to be sharp
-418	418	to be blunt	to be blunt
-419	419	to be heavy	to be heavy
-420	420	to be light	to be light
-421	421	to be hard	to be hard (rock)
-422	422	to be soft	to be soft (cotton)
-423	423	to be smooth	to be smooth (road)
-424	424	to be rough	to be rough (road)
-425	425	to be fast	to be fast
-426	426	to be slow	to be slow
-427	427	to be strong	to be strong
-428	428	to be weak	to be weak
-429	429	to be tired	to be tired
-430	430	to be ill	to be ill, sick
-431	431	to be blind	to be blind
-432	432	to be deaf	to be deaf
-433	433	to be bald	bald
-434	434	to be good	to be good
-435	435	to be bad	to be bad
-436	436	to be correct	to be correct
-437	437	to be wrong	to be wrong
-438	438	when (past)	when (past)
-439	439	when (future)	when (future)
-440	440	where	where
-441	441	who	who
-442	442	what	what
-443	443	how many	how many (persons)
-444	444	I	I (1s)
-445	445	you (sg)	you (2s)
-446	446	he, she	he/she (3s)
-447	447	we (pl)	we (1p)
-448	448	you(pl)	you (2p)
-449	449	they	they (3p)
-450	450	to take	to take
-451	451	to put, place	to put/place
-452	452	to be lost	to be lost or disappear
-453	453	to bend	to bend
-454	454	to lift	to lift
-455	455	to do, make	to do/make (something)
-456	456	don't do it	don't do it
-457	457	to be difficult	to be difficult
-458	458	to be easy	to be easy
-459	459	to be loose	to be loose
-460	460	to be tight	to be tight
-461	461	to set free	to set free, let go (animal)
-462	462	to squeeze	to squeeze
+ID	NUMBER	ENGLISH	AlternativeName	CONCEPTICON_ID	CONCEPTICON_GLOSS
+1	1	sky	sky	1732	SKY
+2	2	sun	sun	1343	SUN
+3	3	moon	moon	1313	MOON
+4	4	star	star	1430	STAR
+5	5	cloud	cloud (rain)	1489	CLOUD
+6	6	mist, fog	mist/fog	249	FOG
+7	7	rain	rain	658	RAIN (PRECIPITATION)
+8	8	rainbow	rainbow	1733	RAINBOW
+9	9	lightning	lightning (flashing)	1654	LIGHTNING
+10	10	thunder	thunder	1150	THUNDER
+11	11	shadow	shadow/shade	1388	SHADE
+12	12	wind	wind	960	WIND
+13	13	night	night	1233	NIGHT
+14	14	day	day	1225	DAY (NOT NIGHT)
+15	15	morning	morning	1339	MORNING
+16	16	noon	noon	12	MIDDAY
+17	17	yesterday	yesterday	1174	YESTERDAY
+18	18	tomorrow	tomorrow	1329	TOMORROW
+19	19	year	year	1226	YEAR
+20	20	east	east	1877	EAST
+21	21	west	west	1817	WEST
+22	22	water	water	948	WATER
+23	23	to be hot (water)	to be hot (water)	1286	HOT
+24	24	to be hot (person)	to be hot (person)	1286	HOT
+25	25	to be warm(water)	to be warm (water)	1232	WARM
+26	26	to be cold (person)	to be cold (person)	1287	COLD
+27	27	to be cold (water)	to be cool (water)	1287	COLD
+28	28	stream	stream	947	STREAM
+29	29	river	river	666	RIVER
+30	30	sea	sea	1474	SEA
+31	31	soil (earth)	soil (earth)	1228	EARTH (SOIL)
+32	32	mud	mud	640	MUD
+33	33	dust	dust	2	DUST
+34	34	stone	stone	857	STONE
+35	35	sand	sand	671	SAND
+36	36	lime	lime (for betel chew)	982	LIME (FRUIT)
+37	37	gold	gold	1369	GOLD
+38	38	silver	silver	759	SILVER
+39	39	iron	iron	621	IRON
+40	40	mountain	mountain	639	MOUNTAIN
+41	41	cave	cave (natural)	1155	CAVE
+42	42	forest	jungle/forest	420	FOREST
+43	43	tree	tree	906	TREE
+44	44	branch	branch (tree)	1531	BRANCH
+45	45	tree bark	tree bark	1204	BARK
+46	46	thorn	thorn	124	THORN
+47	47	root	root (tree)	670	ROOT
+48	48	leaf	leaf (tree)	628	LEAF
+49	49	flower	flower	239	FLOWER
+50	50	fruit	fruit (tree)	1507	FRUIT
+51	51	seed	seed (tree)	714	SEED
+52	52	grass	grass (field/jungle)	606	GRASS
+53	53	bamboo shoot	bamboo plant (large)	2494	BAMBOO SHOOT
+54	54	mushroom	bamboo shoot (edible)	641	MUSHROOM
+55	55	cane/	mushroom		
+56	56	kapok	cane/rattan	2499	KAPOK TREE
+57	57	sugercane	kapok	146	SUGAR CANE	
+58	58	betel nut	sugarcane	217	BETELNUT
+59	59	opium	betel nut	2498	OPIUM
+60	60	bamboo plant	opium			
+						
+61	61	rice, millet beer	(rice/millet) beer		
+62	62	banana	banana (fruit)	868	BANANA
+63	63	mango	mango (fruit)	2398	MANGO
+64	64	egg plant	eggplant (fruit)	1146	AUBERGINE
+65	65	soy bean	soy bean	2027	SOYA	
+66	66	ginger	ginger	2500	GINGER
+67	67	garlic	garlic	2368	GARLIC
+68	68	corn	corn	506	MAIZE
+69	69	red pepper	red pepper	919	CHILI PEPPER
+70	70	dry field	dry (burned) field	2794	FIELD (UPLAND)
+71	71	wet rice field	wet rice field	140	PADDY FIELD
+72	72	paddy rice	paddy rice	3390	WILD RICE
+73	73	rice seedling	rice seedling	3050	SEEDLING
+74	74	to be ripe	to be ripe	178	RIPE
+75	75	pounded rice	pounded rice	926	RICE
+76	76	cooked rice	cooked rice	1191	COOKED RICE
+77	77	to winow	to winnow (rice)	2462	WINNOWING	
+78	78	to dry (rice)	to dry (rice)	1786	DRY UP
+79	79	to pound (rice)	to pound (rice)	354	POUND
+80	80	to grind	to grind	1033	GRIND
+81	81	to cook (rice)	to cook (rice)	1100	COOK (SOMETHING)
+82	82	to boil	to boil (rice)	792	BOIL (OF LIQUID)
+83	83	rice husk	rice husk (powder)	2501	RICE HUSK
+84	84	salt	salt	1274	SALT
+85	85	animal	animal (tame/wild)	619	ANIMAL
+86	86	tiger	tiger	846	TIGER
+87	87	pangolin	pangolin	2508	PANGOLIN
+88	88	bear	bear	1820	BEAR
+89	89	barking deer	barking deer	3152	MUNTJACS
+90	90	monkey	monkey	1350	MONKEY
+91	91	gibbon	gibbon	2511	GIBBON
+92	92	rabbit	rabbit	1136	RABBIT
+93	93	porcupine	porcupine	2510	PORCUPINE
+94	94	rat	rat	1490	RAT
+95	95	dog	dog	2009	DOG
+96	96	to bark	to bark	1206	BARKING
+97	97	to bite	to bite	1403	BITE
+98	98	cat	cat	1208	CAT
+99	99	pig	pig	1337	PIG
+100	100	cow	cow	1007	COW
+101	101	milk	milk (cow)	93	DRAW MILK
+102	102	buffalo	buffalo	934	BUFFALO
+103	103	horn (buffalo)	horn (of buffalo)	1393	HORN (ANATOMY)
+104	104	tail	tail	1220	TAIL
+105	105	elephant	elephant	1290	ELEPHANT
+106	106	elephant task	elephant tusk	2495	ELEPHANT TUSK	
+107	107	bird	bird	937	BIRD
+108	108	pigeon	pigeon	1853	DOVE
+109	109	birdʼs nest	bird's nest	539	NEST	
+110	110	wing	wing	1257	WING
+111	111	feather	feather (body hair)	1201	FEATHER
+112	112	to fly	to fly	1441	FLY (MOVE THROUGH AIR)
+113	113	egg	egg	744	EGG
+114	114	chicken	chicken	2512	CHICK
+115	115	crest	crest (of chicken or bird)			
+116	116	fish	fish	227	FISH
+117	117	snake	snake	730	SNAKE
+118	118	poison	poison (from snake)	655	POISON
+119	119	house lizard	house lizard	632	LIZARD
+120	120	turtle	turtle	112	TURTLE
+121	121	crocodile	crocodile	1857	CROCODILE
+122	122	otter	otter	15	OTTER
+123	123	frog	frog	503	FROG
+124	124	insect	insect	620	INSECT
+125	125	spider	spider	843	SPIDER
+126	126	spider web	spider web	1065	SPIDER WEB
+127	127	louse (head)	louse (head)	310	HEAD LOUSE
+128	128	termite	termite	883	TERMITE
+129	129	ant	ant	587	ANT
+130	130	cocroach	cockroach	1575	COCKROACH	
+131	131	snail	snail	1543	SNAIL
+132	132	mosquito	mosquito	1509	MOSQUITO
+133	133	bee	bee	665	BEE
+134	134	fly	fly	1504	FLY (INSECT)
+135	135	butterfly	butterfly	1791	BUTTERFLY
+136	136	scorpion	scorpion	1538	SCORPION
+137	137	water leech	water leech	949	WATER LEECH
+138	138	land leech	land leech	2273	LEECH
+139	139	earth worm	earthworm	2350	EARTHWORM
+140	140	head	head	1256	HEAD
+141	141	face	face	1560	FACE
+142	142	brain	brain	1583	BRAIN
+143	143	hair (head)	hair (head)	2648	HAIR (HEAD)
+144	144	hair (body)	body hair	189	HAIR (BODY)
+145	145	forehead	forehead	123	FOREHEAD
+146	146	eyebrow	eyebrow	1173	EYEBROW
+147	147	eye	eye	1248	EYE
+148	148	eyelid	eyelid	17	EYELID
+149	149	nose	nose	1221	NOSE
+150	150	cheek	cheek	1730	CHEEK
+151	151	ear	ear	1247	EAR
+152	152	mouth	mouth	674	MOUTH
+153	153	tongue	tongue	1205	TONGUE
+154	154	spit (N)	spit (noun)	1503	SALIVA
+155	155	tooth	tooth	1380	TOOTH
+156	156	guᵐs	gums	139	GUMS	
+157	157	chin	chin	1510	CHIN
+158	158	beard	beard	678	BEARD
+159	159	to shave	to shave (beard)	231	SHAVE
+160	160	neck	neck	1333	NECK
+161	161	shoulder	shoulder	1482	SHOULDER
+162	162	back	back	1291	BACK
+163	163	belly	belly	1251	BELLY
+164	164	navel	navel	1838	NAVEL
+165	165	heart	heart	1223	HEART
+166	166	liver	liver	1224	LIVER
+167	167	intestines	intestines	1991	INTESTINES
+168	168	arm	arm	1673	ARM
+169	169	elbow	elbow	981	ELBOW
+170	170	arᵐpit	armpit	1886	ARMPIT	
+171	171	palm	palm	1183	PALM OF HAND
+172	172	finger	finger	1303	FINGER
+173	173	finger nail	fingernail	1258	FINGERNAIL
+174	174	leg	leg	1297	LEG
+175	175	thigh	thigh	800	THIGH
+176	176	knee	knee	1371	KNEE
+177	177	calf	calf	498	CALF OF LEG
+178	178	shin	shin	186	SHIN
+179	179	heel	heel	980	HEEL
+180	180	bone	bone	1394	BONE
+181	181	joint	joint	999	JOINT
+182	182	marrow	marrow	1835	MARROW
+183	183	rib	rib	801	RIB
+184	184	meat, flesh	meat/flesh (edible)	2615	FLESH OR MEAT
+185	185	fat	fat/grease	323	FAT (ORGANIC SUBSTANCE)
+186	186	skin	skin	763	SKIN
+187	187	blood	blood	946	BLOOD
+188	188	sweat	sweat	125	SWEAT (SUBSTANCE)
+189	189	pus	pus	1808	PUS
+190	190	excrement	excrement	675	FAECES (EXCREMENT)
+191	191	urine	urine	1142	URINE
+192	192	man	man	1554	MAN
+193	193	woman	woman	962	WOMAN
+194	194	person	person	683	PERSON
+195	195	father	father	1217	FATHER
+196	196	mother	mother	1216	MOTHER
+197	197	to be old (person)	to be old (person)	1229	OLD
+198	198	child	child (young person)	1304	CHILD (YOUNG HUMAN)
+200	200	son-in-law	son-in-law	1056	SON-IN-LAW
+201	201	husbanc	husband	1200	HUSBAND	
+202	202	wife	wife	1199	WIFE
+203	203	widow	widow	1756	WIDOW
+204	204	elder brother (of female)	brother (elder of f)	2415	OLDER BROTHER (OF WOMAN)
+205	205	elder brother (of male)	brother (elder of m)	2414	OLDER BROTHER (OF MAN)
+206	206	elder sister (of female)	sister (elder of f)	2419	OLDER SISTER (OF WOMAN)
+207	207	elder sister (of male)	sister (elder of m)	2418	OLDER SISTER (OF MAN)
+208	208	younger brother (of female)	brother (younger of f)	2417	YOUNGER BROTHER (OF WOMAN)
+209	209	younger brother (of male)	brother (younger of m)	2416	YOUNGER BROTHER (OF MAN)
+210	210	younger sister (of female)	sister (younger of f)	2421	YOUNGER SISTER (OF WOMAN)
+211	211	younger sister (of male)	sister (younger of m)	2420	YOUNGER SISTER (OF MAN)
+212	212	friend	friend	1325	FRIEND
+213	213	name	name	1405	NAME
+214	214	village	village	930	VILLAGE
+215	215	road	road/path	667	ROAD
+216	216	boat	boat	1844	BOAT
+217	217	house	house	1252	HOUSE
+218	218	door	door	1567	DOOR
+219	219	roof	roof	769	ROOF
+220	220	area under house	area under house	2632	AREA UNDER HOUSE
+221	221	wall (house)	wall of house	933	WALL (OF HOUSE)
+222	222	sleeping area	sleeping area	2505	BEDROOM
+223	223	mat	mat	195	MAT
+224	224	pillow	pillow	1044	PILLOW
+225	225	blanket	blanket	806	BLANKET
+226	226	clothing	clothing	1895	CLOTHES
+227	227	to weave	to weave (cloth)	133	WEAVE
+228	228	to dye	to dye (cloth)	157	DYE
+229	229	sarong (M)	sarong (male)	2413	SARONG
+230	230	sarong (F)	sarong (female)	2413	SARONG
+231	231	trousers	trousers	809	TROUSERS
+232	232	to sew	to sew	1457	SEW
+233	233	needle	needle	1382	NEEDLE (FOR SEWING)
+234	234	comb	comb	1475	COMB
+235	235	ring	ring	1374	RING
+236	236	pot (cooking)	pot (cooking)	1462	POT
+237	237	mortar	mortar (for peppers)	224	MORTAR CRUSHER
+238	238	pestle	pestle (for peppers)	225	PESTLE
+239	239	spoon	spoon	1378	SPOON
+240	240	plate	plate	480	PLATE
+241	241	firewood	firewood	10	FIREWOOD
+242	242	fire	fire	221	FIRE
+243	243	to burn something	to burn something	141	BURN (SOMETHING)	
+244	244	to extinguish	to extinguish (fire)	127	EXTINGUISH
+245	245	ashes	ashes	646	ASH
+246	246	smoke	smoke	778	SMOKE (EXHAUST)
+247	247	drum	drum (musical instrument)	908	DRUM
+248	248	gongs	gong	2502	GONG
+249	249	bow	bow	994	BOW
+250	250	crossbow	crossbow	3193	CROSSBOW
+251	251	arrow	arrow	977	ARROW
+252	252	spear	spear	945	SPEAR
+253	253	knife	knife/blade	1352	KNIFE
+254	254	to hear	to hear	1408	HEAR
+255	255	to listen	to listen	1608	LISTEN
+256	256	to be smelly	to be smelly	42	STINKING
+257	257	to smell (something)	to smell (sniff)	1586	SMELL (PERCEIVE)
+258	258	to see	to see	1409	SEE
+259	259	to look at	to look at	1819	LOOK
+260	260	to weep	to weep	1839	CRY
+261	261	to eat	to eat	1336	EAT
+262	262	to swallow	to swallow	897	SWALLOW
+263	263	to be hungry	to be hungry	1533	BE HUNGRY
+264	264	to be full	to be full (after eating)	1429	FULL
+265	265	to be thirsty	to be thirsty	3474	BE THIRSTY
+266	266	to drink	to drink	1401	DRINK
+267	267	to be drunk	to be drunk (alcohol)	1463	DRUNK
+268	268	to vomit	to vomit	1278	VOMIT
+269	269	to spit	to spit	1440	SPIT
+270	270	to cough	to cough	879	COUGH
+271	271	to sneeze	to sneeze	1621	SNEEZE
+272	272	to yarwn	to yawn	1028	YAWN	
+273	273	to breathe	to breathe	1407	BREATHE
+274	274	to blow	to blow (on the fire)	176	BLOW (WITH MOUTH)
+275	275	to whistle	to whistle	1025	WHISTLE
+276	276	to suck (milk)	to suck (milk)	1421	SUCK
+277	277	to lick	to lick	319	LICK
+278	278	to smile	to smile	1451	SMILE
+279	279	to laugh	to laugh	1355	LAUGH
+280	280	to speak	to speak	1623	SPEAK
+281	281	to tell about	to tell about			
+282	282	to shout	to shout	715	SHOUT
+283	283	to lie, fib	to lie/fib	601	LIE (MISLEAD)
+284	284	to sing	to sing	1261	SING
+285	285	to think	to think	2271	THINK
+286	286	to know	to know	1410	KNOW (SOMETHING)
+287	287	to forget	to forget	1523	FORGET
+288	288	to choose	to choose	1750	CHOOSE
+289	289	to love	to love	923	LOVE
+290	290	to hate	to hate	1607	HATE
+291	291	to be ashamed	to be ashamed	1894	ASHAMED
+292	292	to wait	to wait	1590	WAIT (FOR)
+293	293	to count	to count	1420	COUNT
+294	294	to be afraid	to be afraid	1419	FEAR (BE AFRAID)
+295	295	to be angry	to be angry	2223	BE ANGRY
+296	296	to sleep	to sleep	1585	SLEEP
+297	297	to snore	to snore	1983	SNORE
+298	298	to dream	to dream	1920	DREAM (SOMETHING)
+299	299	to get up	to get up (from bed)	1512	RISE (ONESELF)
+300	300	to be hurt	to be hurt (after hitting finger with hammer)	2561	HURT (SENSE PAIN)
+301	301	medicine	medicine	1372	MEDICINE
+302	302	to be itchy	to be itchy	149	ITCHY
+303	303	to scratch (self)	to scratch oneself	1436	SCRATCH
+304	304	to shiver	to shiver	52	SHIVER
+305	305	to die	to die	1494	DIE
+306	306	gost	ghost	1175	GHOST	
+307	307	to sit	to sit (remain)	1416	SIT
+308	308	to stand (standing)	to stand (remain)	1442	STAND
+309	309	to kneel	to kneel	66	KNEEL
+310	310	to walk	to walk	1443	WALK
+311	311	to crowl	to crawl on belly (like a snake)	96	CRAWL	
+312	312	to go	to go	695	GO
+313	313	to come	to come	1446	COME
+314	314	to return	to return	581	COME BACK
+315	315	to run	to run	1519	RUN
+316	316	to ascend	to ascend	705	GO UP (ASCEND)
+317	317	to descend	to descend	2014	GO DOWN (DESCEND)
+318	318	to enter	to enter (house)	749	ENTER
+319	319	to go out	to go out / exit (house)	1107	GO OUT
+320	320	to push	to push	1452	PUSH
+321	321	to pull	to pull	1455	PULL
+322	322	to kick	to kick	1135	KICK
+323	323	to throw	to throw	1456	THROW
+324	324	to fall	to fall (from a height)	1280	FALL
+325	325	to swim	to swim	1439	SWIM
+326	326	to float	to float	1574	FLOAT
+327	327	to submerge	to submerge something			
+328	328	to flow	to flow (river)	2003	FLOW
+329	329	to give	to give	1447	GIVE
+330	330	to tie	to tie (something)	1094	FASTEN
+331	331	to wipe	to wipe	1454	WIPE
+332	332	to rub, scrub	to rub/scrub	1449	RUB
+333	333	to wash	to wash (hands)	1453	WASH
+334	334	to wash (clothes)	to wash (clothes)	2503	LAUNDER
+335	335	to bathe	to bathe	138	BATHE
+336	336	to hit, beat	to hit/beat (with force)	1433	HIT
+337	337	to split	to split	1437	SPLIT
+338	338	to slice	to slice/saw	2156	CUT (WITH KNIFE)
+339	339	to cut (hair)	to cut (hair)	2155	CUT (WITH SCISSORS)
+340	340	to stab	to stab	1434	STAB
+341	341	to plant	to plant	1486	PLANT (SOMETHING)
+342	342	to dig	to dig (with a tool)	1418	DIG
+343	343	to bury	to bury (a corpse)	1719	BURY
+344	344	to work	to work	1086	WORK (ACTIVITY)
+345	345	to play	to play	1413	PLAY
+346	346	to dance	to dance	1879	DANCE
+347	347	to shoot	to shoot (gun)	1172	SHOOT
+348	348	to hunt	to hunt	1435	HUNT
+349	349	to kill	to kill	1417	KILL
+350	350	to fight	to fight (hand-to-hand)	1423	FIGHT
+351	351	to buy	to buy	1869	BUY
+352	352	to sell	to sell	1571	SELL
+353	353	to exchange	to exchange	2509	EXCHANGE
+354	354	to pay	to pay	718	PAY
+355	355	to steal	to steal	713	STEAL
+356	356	to hide(self)	to hide oneself	2485	HIDE (ONESELF)
+357	357	one	one (person)	1493	ONE
+358	358	two	two (persons)	1498	TWO
+359	359	three	three (persons)	492	THREE
+360	360	four	four (persons)	1500	FOUR
+361	361	five	five (persons)	493	FIVE
+362	362	six	six (persons)	1703	SIX
+363	363	seven	seven (persons)	1704	SEVEN
+364	364	eight	eight (persons)	1705	EIGHT
+365	365	nine	nine (persons)	1483	NINE
+366	366	ten	ten (persons)	1515	TEN
+367	367	twenty	twenty (persons)	1710	TWENTY
+368	368	hundred	hundred (persons)	1634	HUNDRED
+369	369	one thousand	thousand (persons)	1843	THOUSAND
+370	370	to be many	to be many (people)	1198	MANY
+371	371	all	all	98	ALL
+372	372	some	some (people)	1241	SOME
+373	373	to be few	to be few (people)	1242	FEW
+374	374	half	half (quantity)	816	HALF
+375	375	to be big	to be big	1202	BIG
+376	376	to be small	to be small	1246	SMALL
+377	377	to be long	to be long	1203	LONG
+378	378	to be short	to be short (length)	1645	SHORT
+379	379	to be tall	to be tall	711	TALL
+380	380	to be short	to be short (height)	2191	LOW (HEIGHT)
+381	381	to be thick	to be thick (thing)	1244	THICK
+382	382	to be thin	to be thin (thing)	2308	THIN
+383	383	to be fat	to be fat (person)	1279	FAT (OBESE)
+384	384	to be skiny	to be skinny (person)	1400	THIN (SLIM)	
+385	385	to be wide	to be wide/broad	1243	WIDE
+386	386	to be narrow	to be narrow	1267	NARROW
+387	387	to be deep	to be deep	1593	DEEP
+388	388	to be shallow	to be shallow	193	SHALLOW
+389	389	to be round	to be round	1395	ROUND
+390	390	to be full	to be full (container)	1429	FULL
+391	391	right side	right side	1019	RIGHT
+392	392	left side	left side	244	LEFT
+393	393	to be straight	to be straight (road)	1404	STRAIGHT
+394	394	to be far	to be far (village many miles away)	1406	FAR
+395	395	to be near	to be near (village very near)	1942	NEAR
+396	396	this	this	1214	THIS
+397	397	that	that	78	THAT
+398	398	black	black	163	BLACK
+399	399	white	white	1335	WHITE
+400	400	red	red	156	RED
+401	401	green	green	1425	GREEN
+402	402	yellow	yellow	1424	YELLOW
+403	403	to be dirty	to be dirty (clothes)	1230	DIRTY
+404	404	to be new	to be new (things)	1231	NEW
+405	405	to be old	to be old (things)	1229	OLD
+406	406	to be dark	to be dark (outside)	706	DARK
+407	407	to shine	to shine (flashlight)	708	SHINE
+408	408	to be the same	to be the same	200	SAME
+409	409	to be sweet	to be sweet	717	SWEET
+410	410	to be sour	to be sour	1906	SOUR
+411	411	to be bitter	to be bitter	887	BITTER
+412	412	to be spicy	to be spicy	544	SPICY
+413	413	to be rotten	to be rotten	1728	ROTTEN
+414	414	to be swollen	to be swollen	1573	SWELL
+415	415	to be dry	to be dry (rice)	1398	DRY
+416	416	to be wet	to be wet (with water)	1726	WET
+417	417	to be sharp	to be sharp	1396	SHARP
+418	418	to be blunt	to be blunt	379	BLUNT
+419	419	to be heavy	to be heavy	1210	HEAVY
+420	420	to be light	to be light	737	LIGHT (IGNITE)
+421	421	to be hard	to be hard (rock)	1884	HARD
+422	422	to be soft	to be soft (cotton)	1856	SOFT
+423	423	to be smooth	to be smooth (road)	1234	SMOOTH
+424	424	to be rough	to be rough (road)	1923	ROUGH
+425	425	to be fast	to be fast	1631	FAST
+426	426	to be slow	to be slow	701	SLOW
+427	427	to be strong	to be strong	785	STRONG
+428	428	to be weak	to be weak	1601	WEAK
+429	429	to be tired	to be tired	1757	TIRED
+430	430	to be ill	to be ill, sick	1847	SICK
+431	431	to be blind	to be blind	1653	BLIND
+432	432	to be deaf	to be deaf	996	DEAF
+433	433	to be bald	bald	1125	BALD
+434	434	to be good	to be good	1035	GOOD
+435	435	to be bad	to be bad	1292	BAD
+436	436	to be correct	to be correct	1725	CORRECT (RIGHT)
+437	437	to be wrong	to be wrong	1390	WRONG
+438	438	when (past)	when (past)	1238	WHEN
+439	439	when (future)	when (future)	1238	WHEN
+440	440	where	where	1237	WHERE
+441	441	who	who	1235	WHO
+442	442	what	what	1236	WHAT
+443	443	how many	how many (persons)	822	HOW MANY
+444	444	I	I (1s)	1209	I
+445	445	you (sg)	you (2s)	1215	THOU
+446	446	he, she	he/she (3s)	2642	HE OR SHE
+447	447	we (pl)	we (1p)	1212	WE
+448	448	you(pl)	you (2p)	1213	YOU
+449	449	they	they (3p)	817	THEY
+450	450	to take	to take	1749	TAKE
+451	451	to put, place	to put/place	998	PUT
+452	452	to be lost	to be lost or disappear			
+453	453	to bend	to bend	2224	BEND (SOMETHING)
+454	454	to lift	to lift	501	LIFT
+455	455	to do, make	to do/make (something)	2575	DO OR MAKE
+456	456	don't do it	don't do it	2660	DO NOT DO IT
+457	457	to be difficult	to be difficult	584	DIFFICULT
+458	458	to be easy	to be easy	686	EASY
+459	459	to be loose	to be loose	2506	LOOSE
+460	460	to be tight	to be tight	3053	TIGHT
+461	461	to set free	to set free, let go (animal)	1095	LET GO OR SET FREE
+462	462	to squeeze	to squeeze	1414	SQUEEZE

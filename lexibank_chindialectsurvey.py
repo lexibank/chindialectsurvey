@@ -2,6 +2,7 @@ from pathlib import Path
 
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import pb
+from clldutils.misc import slug
 
 # Customize your basic data
 import attr
@@ -14,14 +15,12 @@ class NewConcept(Concept):
 @attr.s
 class NewLanguage(Language):
     DialectGroup = attr.ib(default=None)
-    ISO639P3code = attr.ib(default=None)
-    Location = attr.ib(default=None)
-    Language = attr.ib(default=None)
     Location = attr.ib(default=None)
     Town = attr.ib(default=None)
     Speaker = attr.ib(default=None)
     Family = attr.ib(default='Sino-Tibetan')
     SubGroup = attr.ib(default="Kuki-Chin")
+    LanguageName = attr.ib(default=None)
 
 
 #@attr.s
@@ -59,31 +58,41 @@ class Dataset(BaseDataset):
         Convert the raw data to a CLDF dataset.
         """
         data = self.raw_dir.read_csv('wordlist.tsv', dicts=True, delimiter='\t')
-        concepts = {}
+        concept_lookup = {}
+        args.writer.add_sources()
         
         # short cut to add concepts and languages, provided your name spaces
         # match
         #args.writer.add_concepts()
-        args.writer.add_languages()
+        language_lookup = set()
+        for language in self.languages:
+            if language['KEEP'] == '1':
+                args.writer.add_language(
+                    **{k: v for (k, v) in language.items() if k != 'KEEP'}
+                        )
+                language_lookup.add(language['ID'])
         
 
         ## detailed way to do it
         for concept in self.concepts:
+            idx = concept['ID'].split('-')[-1] + '_' + slug(concept['ENGLISH'])
             args.writer.add_concept(
-                    ID=concept['ID'],
+                    ID=idx,
                     Name=concept['ENGLISH'],
                     AlternativeName=concept['AlternativeName'],
-                    #Concepticon_ID=concept['CONCEPTICON_ID'],
+                    Concepticon_ID=concept['CONCEPTICON_ID'],
+                    Concepticon_Gloss=concept['CONCEPTICON_GLOSS'],
                     )
-            concepts[concept['ENGLISH']] = concept['ID']
+            concept_lookup[concept['ENGLISH']] = idx
 
         for row in pb(data, desc='cldfify'):
-            args.writer.add_forms_from_value(
-                    Language_ID=row['DOCULECT'],
-                    Parameter_ID=concepts[row['CONCEPT']],
-                    Value=row['TRANSCRIPTION'],
-                    Source=[]
-                    )
+            if row['DOCULECT'] in language_lookup:
+                args.writer.add_forms_from_value(
+                        Language_ID=row['DOCULECT'],
+                        Parameter_ID=concept_lookup[row['CONCEPT']],
+                        Value=row['TRANSCRIPTION'],
+                        Source=['chinds']
+                        )
 
 
 

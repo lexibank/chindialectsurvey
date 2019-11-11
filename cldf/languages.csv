@@ -1,127 +1,32 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,DialectGroup,Language,Location,Town,Speaker,SubGroup
-TaungthaWethet-T-1,Taungtha (Wethet),,,rtc,,,,Sino-Tibetan,,S-Matu/Rawngtu,Htilin,Wethet,T-1,Taungtha
-TaungthaThanpuya-T-2,Taungtha (Thanpuya),,,rtc,,,,Sino-Tibetan,,S-Matu/Rawngtu,Htilin,Thanpuya,T-2,Taungtha
-TaungthaKyarOoYin-T-3,Taungtha (Kyar Oo Yin),,,rtc,,,,Sino-Tibetan,,S-Matu/Rawngtu,Htilin,Kyar Oo Yin,T-3,Taungtha
-TaungthaYeShin-T-4,Taungtha (Ye Shin),,,rtc,,,,Sino-Tibetan,,S-Matu/Rawngtu,Saw,Ye Shin,T-4,Taungtha
-MaraNgaphaipi-T-6,Mara (Ngaphaipi),mara1382,,mrh,,,,Sino-Tibetan,,Mara,Thantlang,Ngaphaipi,T-6,Taungtha
-MaraLailenpi-T-5,Mara (Lailenpi),mara1382,,mrh,,,,Sino-Tibetan,,Mara,Matupi,Lailenpi,T-5,Taungtha
-ThaiphumRengkheng-T-7,Thaiphum (Rengkheng),,,cth,,,,Sino-Tibetan,,S-Khumi,Matupi,Rengkheng,T-7,Taungtha
-BawmBahungTaung-T-8,Bawm (Bahung Taung),bawm1236,,bgr,,,,Sino-Tibetan,,Central,Paletwa,Bahung Taung,T-8,Taungtha
-AshoKokanTan-A-1,Asho (Kokan Tan),asho1236,,csh,,,,Sino-Tibetan,,S-Asho,Ann,Kokan Tan,A-1,Asho
-AshoPadekyawt-A-2,Asho (Padekyawt),asho1236,,csh,,,,Sino-Tibetan,,S-Asho,Ann,Padekyawt,A-2,Asho
-AshoPadar-A-3,Asho (Padar),asho1236,,csh,,,,Sino-Tibetan,,S-Asho,Ma-I,Padar,A-3,Asho
-AshoSalu-A-4,Asho (Salu),asho1236,,csh,,,,Sino-Tibetan,,S-Asho,Taunggup,Salu,A-4,Asho
-AshoTarye-A-5,Asho (Tarye),asho1236,,csh,,,,Sino-Tibetan,,S-Asho,Taunggup,Tarye,A-5,Asho
-AshoKankawTaung-A-6,Asho (Kankaw Taung),asho1236,,csh,,,,Sino-Tibetan,,S-Asho,Kyeintali,Kankaw Taung,A-6,Asho
-AshoJatetaw-A-7,Asho (Jatetaw),asho1236,,csh,,,,Sino-Tibetan,,S-Asho,Thandwe,Jatetaw,A-7,Asho
-AshoShinsawPyin-A-8,Asho (Shinsaw Pyin),asho1236,,csh,,,,Sino-Tibetan,,S-Asho,Thandwe,Shinsaw Pyin,A-8,Asho
-AshoKhamaungShaeTaing-A-9,Asho (Khamaung Shae Taing),asho1236,,csh,,,,Sino-Tibetan,,S-Asho,Ranbye,Khamaung Shae Taing,A-9,Asho
-AshoSaryeKwin-A-10,Asho (Sarye Kwin),asho1236,,csh,,,,Sino-Tibetan,,S-Asho,Padaung,Sarye Kwin,A-10,Asho
-AshoLinde-A-11,Asho (Linde),asho1236,,csh,,,,Sino-Tibetan,,S-Asho,Nga Phay,Linde,A-11,Asho
-AshoTayPhyu-A-13,Asho (Tay Phyu),asho1236,,csh,,,,Sino-Tibetan,,S-Asho,TaungDwin Kyi,Tay Phyu,A-13,Asho
-TaungthaMie-U-1,Taungtha (Mi-e),,,rtc,,,,Sino-Tibetan,,S-Matu/Rawngtu,Kyauk Htu,Mi-e,U-1,Uppu
-UppuBuddhagarma-U-2,Uppu (Buddhagarma),chin1478,,cnb,,,,Sino-Tibetan,,S-Asho,Paletwa,Buddhagarma,U-2,Uppu
-UppuKhaingzi-U-3,Uppu (Khaingzi),chin1478,,cnb,,,,Sino-Tibetan,,S-Asho,Minbya,Khaingzi,U-3,Uppu
-UppuChinLetmon-U-4,Uppu (Chin Letmon),chin1478,,cnb,,,,Sino-Tibetan,,S-Asho,Kanpetlet,Chin Letmon,U-4,Uppu
-UppuKyinDwe-U-5,Uppu (Kyin Dwe),chin1478,,cnb,,,,Sino-Tibetan,,S-Asho,Kanpetlet,Kyin Dwe,U-5,Uppu
-UppuYan-U-6,Uppu (Yan),chin1478,,cnb,,,,Sino-Tibetan,,S-Asho,Laung Shae,Yan,U-6,Uppu
-UppuNatkyi-U-7,Uppu (Natkyi),chin1478,,cnb,,,,Sino-Tibetan,,S-Asho,Seddutaya,Natkyi,U-7,Uppu
-MayinnOwnwa-U-9,Mayinn (Ownwa),chin1478,,cnb,,,,Sino-Tibetan,,S-Asho,Seddutaya,Ownwa,U-9,Uppu
-LonpawKhoimalaung-U-9,Lonpaw (Khoimalaung),chin1478,,cnb,,,,Sino-Tibetan,,S-Asho,Seddutaya,Khoimalaung,U-9,Uppu
-MinkyaChi-U-10,Minkya (Chi),chin1478,,cnb,,,,Sino-Tibetan,,S-Asho,Seddutaya,Chi,U-10,Uppu
-DoituHetsawlay-U-11,Doitu (Hetsawlay),,,csj,,,,Sino-Tibetan,,S-Asho,Minbya,Hetsawlay,U-11,Uppu
-LaituKhuasung-U-12,Laitu (Khuasung),,,clj,,,,Sino-Tibetan,,S-Asho,Minbya,Khuasung,U-12,Uppu
-LaituZaingchaung-U-13,Laitu (Zaingchaung),,,clj,,,,Sino-Tibetan,,S-Asho,Minbya,Zaingchaung,U-13,Uppu
-LaituKruChaung-U-14,Laitu (Kʰruŋ Chaung),,,clj,,,,Sino-Tibetan,,S-Asho,Minbya,Kʰruŋ Chaung,U-14,Uppu
-EkaiDaletYwaHaung-D-1,Ekai Dalet Ywa Haung,sumt1234,,csv,,,,Sino-Tibetan,,S-Asho,Ann,Dalet Ywa Haung,D-1,Dalet
-KhulaiAyeChaungKwanwa-D-5,Khulai Aye Chaung Kwanwa,sumt1234,,csv,,,,Sino-Tibetan,,S-Asho,Ann,Aye Chaung Kwanwa,D-5,Dalet
-DaituNyaungChaungYwa-D-4,Daitu Nyaung Chaung Ywa,sumt1234,,csv,,,,Sino-Tibetan,,S-Asho,Ann,Nyaung Chaung Ywa,D-4,Dalet
-KhamawLakeKone-D-2,Khamaw Lake Kone,asho1236,,csh,,,,Sino-Tibetan,,S-Asho,Ann,Lake Kone,D-2,Dalet
-SaingbongAyoTaung-D-3,Saingbong Ayo Taung,asho1236,,csh,,,,Sino-Tibetan,,S-Asho,Ann,Ayo Taung,D-3,Dalet
-SaingbongAnnChaungYonChaung-A,Saingbong (Ann Chaung) Yon Chaung,asho1236,,csh,,,,Sino-Tibetan,,S-Asho,Ann,Yon Chaung,??,Dalet
-UppuCintwe-A,Uppu Cintwe,chin1478,,cnb,,,,Sino-Tibetan,,S-Asho,Kanpetlet,Cintwe,,SChn
-UppuSaw-A,Uppu Saw,chin1478,,cnb,,,,Sino-Tibetan,,S-Asho,Saw,Saw,,SChn
-UppuKhaici-A,Uppu Khaici,chin1478,,cnb,,,,Sino-Tibetan,,S-Asho,Minbya,Khaici,,
-AshoAungLan-A,Asho Aung Lan,asho1236,,csh,,,,Sino-Tibetan,,S-Asho,Aung Lan,Aung Lan,,Yangon
-LaisawThuHtayKung-A,Laisaw Thu Htay Kung,,,clj,,,,Sino-Tibetan,,S-Asho,Minnpya,Thu Htay Kung,,Mro-Khimi
-LaisawMraukUTown-A,Laisaw Mrauk U Town,,,clj,,,,Sino-Tibetan,,S-Asho,Mrauk U,Mrauk U Town,,Mro-Khimi
-HyowKongtuBoroKukyachariinRajasthali-A,Hyow-Kongtu Boro Kukyachari (in Rajasthali),asho1236,,csh,,,,Sino-Tibetan,,S-Asho,,Boro Kukyachari (in Rajasthali),,Bangladesh
-HyowLaituGhungurumukParainBandarban-A,Hyow-Laitu Ghungurumukʰ Para (in Bandarban),asho1236,,csh,,,,Sino-Tibetan,,S-Asho,,Ghungurumukʰ Para (in Bandarban),,Bangladesh
-SonglaiHettui8KarchaungHettui-A,Songlai-Hettui 8Karchaung (Hettui),,,csj,,,,Sino-Tibetan,,S-Asho,,8Karchaung (Hettui),,Paletwa Daai
-SonglaiMaungUmSong1MaungUmSong-A,Songlai-Maung Um (Song) 1Maung Um (Song),,,csj,,,,Sino-Tibetan,,S-Asho,,1Maung Um (Song),,Paletwa Daai
-SonglaiLai2PyinLoneKyiLai-A,Songlai-Lai 2Pyin Lone Kyi (Lai),,,csj,,,,Sino-Tibetan,,S-Asho,,2Pyin Lone Kyi (Lai),,Paletwa Daai
-SonglaiDoitu9MaungYwaDoitu-A,Songlai-Doitu 9Maung Ywa (Doitu),,,csj,,,,Sino-Tibetan,,S-Asho,,9Maung Ywa (Doitu),,Paletwa Daai
-LaituKongtuHteinpin-A,Laitu-Kongtu Hteinpin,,,clj,,,,Sino-Tibetan,,S-Asho,,Hteinpin,,Yangon
-LaituSangkai-A,Laitu Sangkai,,,clj,,,,Sino-Tibetan,,S-Asho,Lemro (Songlai),Sangkai,,Laitu-Sumtu
-LaituKaikyi-A,Laitu Kaikyi,,,clj,,,,Sino-Tibetan,,S-Asho,Phuntha (Daitu),Kaikyi,,Laitu-Sumtu
-Laitu-A,Laitu ???,,,clj,,,,Sino-Tibetan,,S-Asho,Dalet (Lawktu),???,,Laitu-Sumtu
-LaituAhongdong-A,Laitu Ahongdong,,,clj,,,,Sino-Tibetan,,S-Asho,Kanni,Ahongdong,,Laitu-Sumtu
-LaituNyuanNetKhwahsung-A,Laitu Nyuan Net Khwah-sung,,,clj,,,,Sino-Tibetan,,S-Asho,Kanni,Nyuan Net Khwah-sung,,Laitu-Sumtu
-LaituPharpyaw-A,Laitu Pharpyaw,,,clj,,,,Sino-Tibetan,,S-Asho,Kanni,Pharpyaw,,Laitu-Sumtu
-LaituPheithapyin-A,Laitu Pheithapyin,,,clj,,,,Sino-Tibetan,,S-Asho,Kanni,Pheithapyin,,Laitu-Sumtu
-SumtuDookkan-A,Sumtu Dookkan,sumt1234,,csv,,,,Sino-Tibetan,,S-Asho,,Dookkan,,Laitu-Sumtu
-NggaKantthayung-A,Ng'ga Kant-thayung,munc1235,,mwq,,,,Sino-Tibetan,,S-Cho/Daai,Kanpetlet,Kant-thayung,,Matupi Daai
-NggaHlaLawngPang-A,Ng'ga Hla Lawng Pang,munc1235,,mwq,,,,Sino-Tibetan,,S-Cho/Daai,Kanpetlet,Hla Lawng Pang,,Matupi Daai
-KaangKruk-A,Kaang Kruk,,,ckn,,,,Sino-Tibetan,,S-Cho/Daai,,Kruk,,Matupi Daai
-ChangpyangChangPyang-A,Changpyang Chang Pyang,daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,,Chang Pyang,,Matupi Daai
-DaaiTuisip-A,Daai Tuisip,daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,,Tuisip,,Matupi Daai
-DaaiAmsoi-A,Daai Amsoi,daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,,Amsoi,,Matupi Daai
-DaaiKalim-A,Daai Kal-im,daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,,Kal-im,,Matupi Daai
-DaaiKaangKhinphong-A,Daai/Kaang Khinphong,,,ckn,,,,Sino-Tibetan,,S-Cho/Daai,,Khinphong,,Matupi Daai
-DaaiLowerKheng-A,Daai Lower Kheng,daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,,Lower Kheng,,Matupi Daai
-DaaiMartu-A,Daai Martu,daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,,Martu,,Matupi Daai
-DaaiRung-A,Daai Rung,daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,,Rung,,Matupi Daai
-DaaiLingtuiLungtui-A,Daai Lingtui (Lungtui),daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,,Lingtui (Lungtui),,Matupi Daai
-DaaiAwisi-A,Daai Awisi,daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,,Awisi,,Matupi Daai
-DaaiNgxang5HungNghang-A,Daai-Ngxang  5Hung (Ng'hang),daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,,5Hung (Ng'hang),,Paletwa Daai
-DaaiNgxang6KhengsanuNghang-A,Daai-Ngxang  6Khengsanu (Ng'hang),daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,,6Khengsanu (Ng'hang),,Paletwa Daai
-DaaiNgxang7HmungtunuNghang-A,Daai-Ngxang  7Hmungtunu (Ng'hang),daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,,7Hmungtunu (Ng'hang),,Paletwa Daai
-DaaiYet3BuchaungwaYet-A,Daai-Yet 3Buchaungwa (Yet),daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,,3Buchaungwa (Yet),,Paletwa Daai
-DaaiYetHettui4MawsungkyiYet-A,Daai-Yet/Hettui 4Mawsungkyi (Yet),daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,,4Mawsungkyi (Yet),,Paletwa Daai
-DaarYinduLontung-A,Daar (Yindu) Lontung,daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,,Lontung,,Daai Trip 1
-DaarYinduMsatui-A,Daar (Yindu) Msatui,daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,,Msatui,,Daai Trip 1
-DaaiTuili-A,Daai Tuili,daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,,Tuili,,Daai Trip 1
-DaaiMkuiimnu-A,Daai Mkui-im-nu,daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,,Mkui-im-nu,,Daai Trip 1
-DaaiBantoi-A,Daai Bantoi,daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,,Bantoi,,Daai Trip 1
-DaaiDuk-A,Daai Duk,daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,,Duk,,Daai Trip 1
-DaaiNghngiloor-A,Daai Nghngilo or ɣɑŋ,daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,Kanpetlet,Nghngilo or ɣɑŋ,,Daai Trip 1
-MuunNgMenSheetHmawi-A,Muun (Ng'Men) Sheet Hmawi,munc1235,,mwq,,,,Sino-Tibetan,,S-Cho/Daai,Mindat,Sheet Hmawi,,Southern Chin
-MuunNituShingBawk-A,Muun (Nitu) Shing Bawk,munc1235,,mwq,,,,Sino-Tibetan,,S-Cho/Daai,Mindat,Shing Bawk,,Southern Chin
-NgGah-A,Ng'Gah ???,munc1235,,mwq,,,,Sino-Tibetan,,S-Cho/Daai,Kanpetlet,???,,Southern Chin
-DaaiKhengLowerKheng-A,Daai (Kheng) Lower Kheng,daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,Mindat,Lower Kheng,,
-DaaiMatupiReung-A,Daai (Matupi) Reung,daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,Matupi,Reung,,
-DaaiPaletwaMuntunu-A,Daai (Paletwa) Muntunu,daai1236,,dao,,,,Sino-Tibetan,,S-Cho/Daai,Paletwa,Muntunu,,
-MatuHaltu-A,Matu Haltu,ngal1291,,hlt,,,,Sino-Tibetan,,S-Matu/Rawngtu,Matupi,Haltu,,
-RawngtuWeilong-A,Rawngtu Weilong,wela1234,,weu,,,,Sino-Tibetan,,S-Matu/Rawngtu,Mindat,Weilong,,
-RawngtuKyawnNam-A,Rawngtu Kyawn Nam,wela1234,,weu,,,,Sino-Tibetan,,S-Matu/Rawngtu,Mindat,Kyawn Nam,,
-RawngtuBoishi-A,Rawngtu Boishi,wela1234,,weu,,,,Sino-Tibetan,,S-Matu/Rawngtu,Mindat,Boishi,,
-RawngtuRamtim-A,Rawngtu Ramtim,wela1234,,weu,,,,Sino-Tibetan,,S-Matu/Rawngtu,Matupi,Ramtim,,
-MatuNgala-A,Matu Ngala,ngal1291,,hlt,,,,Sino-Tibetan,,S-Matu/Rawngtu,Matupi,Ngala,,
-MatuLangleTamtlaih-A,Matu Lang-le/Tamtlaih,ngal1291,,hlt,,,,Sino-Tibetan,,S-Matu/Rawngtu,Matupi,Lang-le/Tamtlaih,,
-MatuPhaneng-A,Matu Phaneng,ngal1291,,hlt,,,,Sino-Tibetan,,S-Matu/Rawngtu,Matupi,Phaneng,,
-MatuNgaleng-A,Matu Ngaleng,ngal1291,,hlt,,,,Sino-Tibetan,,S-Matu/Rawngtu,Matupi,Ngaleng,,
-MatuVuitu-A,Matu Vuitu,ngal1291,,hlt,,,,Sino-Tibetan,,S-Matu/Rawngtu,Matupi,Vuitu,,
-MatuNgatu-A,Matu Ngatu,ngal1291,,hlt,,,,Sino-Tibetan,,S-Matu/Rawngtu,Matupi,Ngatu,,
-MatuValang-A,Matu Valang,ngal1291,,hlt,,,,Sino-Tibetan,,S-Matu/Rawngtu,Matupi,Valang,,
-RungtuNorthThanpaya-A,Rungtu (North) Thanpaya,,,rtc,,,,Sino-Tibetan,,S-Matu/Rawngtu,Htilin,Thanpaya,,
-RungtuCentralHtanpinkung-A,Rungtu (Central) Htanpinkung,,,rtc,,,,Sino-Tibetan,,S-Matu/Rawngtu,Htilin,Htanpinkung,,
-RungtuSouthMihae-A,Rungtu (South) Mih-ae,,,rtc,,,,Sino-Tibetan,,S-Matu/Rawngtu,Kyaukhtu,Mih-ae,,
-MroKhimiAreong10KyaGaungvillageMrokhami-A,Mro-Khimi Areong 10Kya Gaung village (Mro-khami),mroc1235,,cmr,,,,Sino-Tibetan,,S-Khumi,,10Kya Gaung village (Mro-khami),,Paletwa Daai
-AreongKuwa-A,Areong Kuwa,mroc1235,,cmr,,,,Sino-Tibetan,,S-Khumi,Paletwa,Kuwa,,Mro-Khimi
-AreongKhuHlaing-A,Areong Khu Hlaing,mroc1235,,cmr,,,,Sino-Tibetan,,S-Khumi,Mrauk U,Khu Hlaing,,Mro-Khimi
-xenaAgYa-A,xena Ag Ya,mroc1235,,cmr,,,,Sino-Tibetan,,S-Khumi,Kyauktaw,Ag Ya,,Mro-Khimi
-XangtauNgaYoukKaing-A,Xangtau Nga Youk Kaing,mroc1235,,cmr,,,,Sino-Tibetan,,S-Khumi,Kyauktaw,Nga Youk Kaing,,Mro-Khimi
-WakungAwaPyin-A,Wakung Awa Pyin,mroc1235,,cmr,,,,Sino-Tibetan,,S-Khumi,Mrauk U,Awa Pyin,,Mro-Khimi
-WakungMarlar-A,Wakung Marlar,mroc1235,,cmr,,,,Sino-Tibetan,,S-Khumi,Kyauktaw,Marlar,,Mro-Khimi
-WakungMyaTay-A,Wakung Mya Tay,mroc1235,,cmr,,,,Sino-Tibetan,,S-Khumi,Pauktaw,Mya Tay,,Mro-Khimi
-WakungKwaeChaung-A,Wakung Kwae Chaung,mroc1235,,cmr,,,,Sino-Tibetan,,S-Khumi,Buthidaung,Kwae Chaung,,Mro-Khimi
-WakungLwinpuTaung-A,Wakung Lwinpu Taung,mroc1235,,cmr,,,,Sino-Tibetan,,S-Khumi,Ponnagyun,Lwinpu Taung,,Mro-Khimi
-MrusaDakKthiHl-A,Mrusa(Dak) Kɑthi Hlɑ,mruu1242,,mro,,,,Sino-Tibetan,,S-Khumi,Buthidaung,Kɑthi Hlɑ,,Mro-Khimi
-KhenlakLuivang-A,Khenlak Luivang,east2779,,cek,,,,Sino-Tibetan,,S-Khumi,Matupi,Luivang,,
-AsangLamoitong-A,Asang Lamoitong,east2779,,cek,,,,Sino-Tibetan,,S-Khumi,Paletwa,Lamoitong,,
-RengcaDaiHnan-A,Rengca Dai-Hnan,east2779,,cek,,,,Sino-Tibetan,,S-Khumi,Matupi,Dai-Hnan,,
-Zotung-A,Zotung ??,zotu1235,,czt,,,,Sino-Tibetan,,Central,Matupi,??,,Lautu
-HakhaHakhaTown-A,Hakha Hakha Town,haka1240,,cnh,,,,Sino-Tibetan,,Central,Hakha,Hakha Town,,Lautu
-Mara-A,Mara,mara1382,,mrh,,,,Sino-Tibetan,,Mara,Paletwa,,,Lautu
-Zophei-A,Zophei ??,zyph1238,,zyp,,,,Sino-Tibetan,,Mara,,??,,Lautu
-ThaiphumRengKheng-A,Thaiphum Reng Kheng,,,cth,,,,Sino-Tibetan,,??,Matupi,Reng Kheng,,
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,DialectGroup,Location,Town,Speaker,SubGroup,LanguageName
+TaungthaWethet-T-1,Taungtha (Wethet),,,rtc,,,,Sino-Tibetan,,Htilin,Wethet,T-1,Taungtha,S-Matu/Rawngtu
+ThaiphumRengkheng-T-7,Thaiphum (Rengkheng),,,cth,,,,Sino-Tibetan,,Matupi,Rengkheng,T-7,Taungtha,S-Khumi
+AshoKokanTan-A-1,Asho (Kokan Tan),,,csh,,,,Sino-Tibetan,,Ann,Kokan Tan,A-1,Asho,S-Asho
+AshoLinde-A-11,Asho (Linde),,,csh,,,,Sino-Tibetan,,Nga Phay,Linde,A-11,Asho,S-Asho
+UppuKyinDwe-U-5,Uppu (Kyin Dwe),,,cnb,,,,Sino-Tibetan,,Kanpetlet,Kyin Dwe,U-5,Uppu,S-Asho
+LonpawKhoimalaung-U-9,Lonpaw (Khoimalaung),,,cnb,,,,Sino-Tibetan,,Seddutaya,Khoimalaung,U-9,Uppu,S-Asho
+MinkyaChi-U-10,Minkya (Chi),,,cnb,,,,Sino-Tibetan,,Seddutaya,Chi,U-10,Uppu,S-Asho
+DoituHetsawlay-U-11,Doitu (Hetsawlay),,,csj,,,,Sino-Tibetan,,Minbya,Hetsawlay,U-11,Uppu,S-Asho
+LaituKhuasung-U-12,Laitu (Khuasung),,,clj,,,,Sino-Tibetan,,Minbya,Khuasung,U-12,Uppu,S-Asho
+EkaiDaletYwaHaung-D-1,Ekai Dalet Ywa Haung,,,csv,,,,Sino-Tibetan,,Ann,Dalet Ywa Haung,D-1,Dalet,S-Asho
+KhulaiAyeChaungKwanwa-D-5,Khulai Aye Chaung Kwanwa,,,csv,,,,Sino-Tibetan,,Ann,Aye Chaung Kwanwa,D-5,Dalet,S-Asho
+DaituNyaungChaungYwa-D-4,Daitu Nyaung Chaung Ywa,,,csv,,,,Sino-Tibetan,,Ann,Nyaung Chaung Ywa,D-4,Dalet,S-Asho
+KhamawLakeKone-D-2,Khamaw Lake Kone,,,csh,,,,Sino-Tibetan,,Ann,Lake Kone,D-2,Dalet,S-Asho
+SaingbongAyoTaung-D-3,Saingbong Ayo Taung,,,csh,,,,Sino-Tibetan,,Ann,Ayo Taung,D-3,Dalet,S-Asho
+LaisawThuHtayKung-A,Laisaw Thu Htay Kung,,,clj,,,,Sino-Tibetan,,Minnpya,Thu Htay Kung,,Mro-Khimi,S-Asho
+HyowLaituGhungurumukParainBandarban-A,Hyow-Laitu Ghungurumukʰ Para (in Bandarban),,,csh,,,,Sino-Tibetan,,,Ghungurumukʰ Para (in Bandarban),,Bangladesh,S-Asho
+SonglaiHettui8KarchaungHettui-A,Songlai-Hettui 8Karchaung (Hettui),,,csj,,,,Sino-Tibetan,,,8Karchaung (Hettui),,Paletwa Daai,S-Asho
+SonglaiMaungUmSong1MaungUmSong-A,Songlai-Maung Um (Song) 1Maung Um (Song),,,csj,,,,Sino-Tibetan,,,1Maung Um (Song),,Paletwa Daai,S-Asho
+LaituAhongdong-A,Laitu Ahongdong,,,clj,,,,Sino-Tibetan,,Kanni,Ahongdong,,Laitu-Sumtu,S-Asho
+SumtuDookkan-A,Sumtu Dookkan,,,csv,,,,Sino-Tibetan,,,Dookkan,,Laitu-Sumtu,S-Asho
+NggaKantthayung-A,Ng'ga Kant-thayung,,,mwq,,,,Sino-Tibetan,,Kanpetlet,Kant-thayung,,Matupi Daai,S-Cho/Daai
+KaangKruk-A,Kaang Kruk,,,ckn,,,,Sino-Tibetan,,,Kruk,,Matupi Daai,S-Cho/Daai
+DaaiKalim-A,Daai Kal-im,,,dao,,,,Sino-Tibetan,,,Kal-im,,Matupi Daai,S-Cho/Daai
+DaaiAwisi-A,Daai Awisi,,,dao,,,,Sino-Tibetan,,,Awisi,,Matupi Daai,S-Cho/Daai
+DaaiNgxang5HungNghang-A,Daai-Ngxang  5Hung (Ng'hang),,,dao,,,,Sino-Tibetan,,,5Hung (Ng'hang),,Paletwa Daai,S-Cho/Daai
+DaaiYet3BuchaungwaYet-A,Daai-Yet 3Buchaungwa (Yet),,,dao,,,,Sino-Tibetan,,,3Buchaungwa (Yet),,Paletwa Daai,S-Cho/Daai
+MuunNituShingBawk-A,Muun (Nitu) Shing Bawk,,,mwq,,,,Sino-Tibetan,,Mindat,Shing Bawk,,Southern Chin,S-Cho/Daai
+RawngtuWeilong-A,Rawngtu Weilong,,,weu,,,,Sino-Tibetan,,Mindat,Weilong,,,S-Matu/Rawngtu
+RawngtuRamtim-A,Rawngtu Ramtim,,,weu,,,,Sino-Tibetan,,Matupi,Ramtim,,,S-Matu/Rawngtu
+MroKhimiAreong10KyaGaungvillageMrokhami-A,Mro-Khimi Areong 10Kya Gaung village (Mro-khami),,,cmr,,,,Sino-Tibetan,,,10Kya Gaung village (Mro-khami),,Paletwa Daai,S-Khumi
+WakungAwaPyin-A,Wakung Awa Pyin,,,cmr,,,,Sino-Tibetan,,Mrauk U,Awa Pyin,,Mro-Khimi,S-Khumi

@@ -9,29 +9,18 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 ## Statistics
 
 
-![Glottolog: 75%](https://img.shields.io/badge/Glottolog-75%25-yellow.svg "Glottolog: 75%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
-![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
-![BIPA: 79%](https://img.shields.io/badge/BIPA-79%25-yellow.svg "BIPA: 79%")
-![CLTS SoundClass: 79%](https://img.shields.io/badge/CLTS%20SoundClass-79%25-yellow.svg "CLTS SoundClass: 79%")
+![Glottolog: 0%](https://img.shields.io/badge/Glottolog-0%25-red.svg "Glottolog: 0%")
+![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-green.svg "Concepticon: 99%")
+![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 86%](https://img.shields.io/badge/BIPA-86%25-yellowgreen.svg "BIPA: 86%")
+![CLTS SoundClass: 86%](https://img.shields.io/badge/CLTS%20SoundClass-86%25-yellowgreen.svg "CLTS SoundClass: 86%")
 
-- **Varieties:** 126
+- **Varieties:** 31
 - **Concepts:** 460
-- **Lexemes:** 51,607
-- **Sources:** 0
+- **Lexemes:** 14,272
+- **Sources:** 1
 - **Synonymy:** 1.05
 - **Invalid lexemes:** 0
-- **Tokens:** 281,725
-- **Segments:** 233 (48 BIPA errors, 48 CTLS sound class errors, 185 CLTS modified)
-- **Inventory size (avg):** 47.60
-
-## Possible Improvements:
-
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Rawngtu Weilong [wela1234](http://glottolog.org/resource/languoid/id/wela1234)
-  - Rawngtu Kyawn Nam [wela1234](http://glottolog.org/resource/languoid/id/wela1234)
-  - Rawngtu Boishi [wela1234](http://glottolog.org/resource/languoid/id/wela1234)
-  - Rawngtu Ramtim [wela1234](http://glottolog.org/resource/languoid/id/wela1234)
-
-
-- Entries missing sources: 51607/51607 (100.00%)
+- **Tokens:** 78,095
+- **Segments:** 165 (23 BIPA errors, 23 CTLS sound class errors, 142 CLTS modified)
+- **Inventory size (avg):** 47.77

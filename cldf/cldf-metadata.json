@@ -6,8 +6,22 @@
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
+    "dc:source": "sources.bib",
     "dc:title": "Chin Dialect Data",
+    "dcat:accessURL": "https://github.com/lexibank/chindialectsurvey",
     "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/lexibank/chindialectsurvey",
+            "dc:created": "04af437"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v1.4"
+        },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
@@ -17,8 +31,8 @@
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/LinguList/concepticon-data",
-            "dc:created": "v2.1.0-86-g556e0e1"
+            "rdf:about": "https://github.com/concepticon/concepticon-data/",
+            "dc:created": "v2.1.0-127-g0463ef6"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -39,7 +53,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 51607,
+            "dc:extent": 14272,
             "tableSchema": {
                 "columns": [
                     {
@@ -134,7 +148,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 126,
+            "dc:extent": 31,
             "tableSchema": {
                 "columns": [
                     {
@@ -197,10 +211,6 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Language"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "Location"
                     },
                     {
@@ -214,6 +224,10 @@
                     {
                         "datatype": "string",
                         "name": "SubGroup"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "LanguageName"
                     }
                 ],
                 "primaryKey": [

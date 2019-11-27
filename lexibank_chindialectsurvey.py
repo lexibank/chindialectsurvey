@@ -1,19 +1,20 @@
 from pathlib import Path
 
 from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.util import pb
+from pylexibank import progressbar
 from clldutils.misc import slug
 
-# Customize your basic data
 import attr
 from pylexibank import Concept, Language
+from pylexibank.forms import FormSpec
+
 
 @attr.s
-class NewConcept(Concept):
+class CustomConcept(Concept):
     AlternativeName = attr.ib(default=None)
 
 @attr.s
-class NewLanguage(Language):
+class CustomLanguage(Language):
     DialectGroup = attr.ib(default=None)
     Location = attr.ib(default=None)
     Town = attr.ib(default=None)
@@ -23,57 +24,30 @@ class NewLanguage(Language):
     LanguageName = attr.ib(default=None)
 
 
-#@attr.s
-#class NewLexeme(Lexeme):
-#    Attribute1 = attr.ib(default=None)
-#    Attribute2 = attr.ib(default=None)
-
-#@attr.s
-#class NewCognate(Cognate):
-#    Attribute1 = attr.ib(default=None)
-#    Attribute2 = attr.ib(default=None)
-
-# form specification
-from pylexibank.forms import FormSpec
-
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "chindialectsurvey"
 
     # add your personalized data types here
-    concept_class = NewConcept
-    language_class = NewLanguage
+    concept_class = CustomConcept
+    language_class = CustomLanguage
 
     # define the way in which forms should be handled
     form_spec = FormSpec(
             brackets={"(": ")", '[': ']'},
             separators = ";/,",
-            missing_data = ('?', '-'),
+            missing_data = ('?', '-', '0'),
             strip_inside_brackets=True
             )
-
 
     def cmd_makecldf(self, args):
         """
         Convert the raw data to a CLDF dataset.
         """
         data = self.raw_dir.read_csv('wordlist.tsv', dicts=True, delimiter='\t')
-        concept_lookup = {}
         args.writer.add_sources()
-        
-        # short cut to add concepts and languages, provided your name spaces
-        # match
-        #args.writer.add_concepts()
-        language_lookup = set()
-        for language in self.languages:
-            if language['KEEP'] == '1':
-                args.writer.add_language(
-                    **{k: v for (k, v) in language.items() if k != 'KEEP'}
-                        )
-                language_lookup.add(language['ID'])
-        
-
-        ## detailed way to do it
+        languages = args.writer.add_languages(lookup_factory="ID")
+        concepts = {}
         for concept in self.concepts:
             idx = concept['ID'].split('-')[-1] + '_' + slug(concept['ENGLISH'])
             args.writer.add_concept(
@@ -83,13 +57,12 @@ class Dataset(BaseDataset):
                     Concepticon_ID=concept['CONCEPTICON_ID'],
                     Concepticon_Gloss=concept['CONCEPTICON_GLOSS'],
                     )
-            concept_lookup[concept['ENGLISH']] = idx
-
-        for row in pb(data, desc='cldfify'):
-            if row['DOCULECT'] in language_lookup:
+            concepts[concept['ENGLISH']] = idx
+        for row in progressbar(data, desc='cldfify'):
+            if row['DOCULECT'] in languages:
                 args.writer.add_forms_from_value(
                         Language_ID=row['DOCULECT'],
-                        Parameter_ID=concept_lookup[row['CONCEPT']],
+                        Parameter_ID=concepts[row['CONCEPT']],
                         Value=row['TRANSCRIPTION'],
                         Source=['chinds']
                         )

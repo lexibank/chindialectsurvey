@@ -18,6 +18,9 @@ setup(
     entry_points={
         'lexibank.dataset': [
             'chindialectsurvey=lexibank_chindialectsurvey:Dataset',
+        ],
+        'cldfbench.commands': [
+            'chindialectsurvey=commands',
         ]
     },
     install_requires=[

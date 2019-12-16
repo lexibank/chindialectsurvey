@@ -18,8 +18,9 @@ def run(args):
         if wl[idx, 'tokens']:
             D[idx] = wl[idx]
     part = Partial(D, check=True)
-    part.partial_cluster(method='sca', threshold=0.45, ref="cogids",
-            cluster_method='upgma')
+    part.get_partial_scorer(runs=10000)
+    part.partial_cluster(method='lexstat', threshold=0.45, ref="cogids",
+            cluster_method='infomap')
     alms = Alignments(part, ref='cogids', fuzzy=True)
     alms.align()
     alms.output('tsv', filename="chin-aligned")

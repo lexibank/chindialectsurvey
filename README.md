@@ -15,6 +15,7 @@ This is an excerpts of a large collection of Chin dialect data of more than 100 
 ## Statistics
 
 
+[![Build Status](https://travis-ci.org/lexibank/chindialectsurvey.svg?branch=master)](https://travis-ci.org/lexibank/chindialectsurvey)
 ![Glottolog: 69%](https://img.shields.io/badge/Glottolog-69%25-orange.svg "Glottolog: 69%")
 ![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-green.svg "Concepticon: 99%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -27,9 +28,9 @@ This is an excerpts of a large collection of Chin dialect data of more than 100 
 - **Sources:** 1
 - **Synonymy:** 1.05
 - **Invalid lexemes:** 0
-- **Tokens:** 78,084
-- **Segments:** 160 (0 BIPA errors, 0 CTLS sound class errors, 160 CLTS modified)
-- **Inventory size (avg):** 47.61
+- **Tokens:** 76,036
+- **Segments:** 169 (0 BIPA errors, 0 CTLS sound class errors, 169 CLTS modified)
+- **Inventory size (avg):** 53.26
 
 ## Possible Improvements:
 

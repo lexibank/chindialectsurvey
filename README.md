@@ -1,4 +1,4 @@
-# Chin Dialect Data
+# CLDF dataset derived from the LSDO's "Chin Dialect Data" from 2019
 
 Cite the source dataset as
 
@@ -37,4 +37,15 @@ This is an excerpts of a large collection of Chin dialect data of more than 100 
 - Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
   - Rawngtu Weilong [wela1234](http://glottolog.org/resource/languoid/id/wela1234)
   - Rawngtu Ramtim [wela1234](http://glottolog.org/resource/languoid/id/wela1234)
+
+
+
+# Contributors
+
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Johann-Mattis List | @LinguList | maintainer | Author
+Muhammad Zakaria | | language mapping, orthography profile | Author
+Nathan Statezni | | data collector | DataCollector, Editor
+
 

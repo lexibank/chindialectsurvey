@@ -1,6 +1,7 @@
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
-Johann-Mattis List | @LinguList | maintainer
-Muhammad Zakaria | | language mapping, orthography profile
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Johann-Mattis List | @LinguList | maintainer | Author
+Muhammad Zakaria | | language mapping, orthography profile | Author
+Nathan Statezni | | data collector | DataCollector, Editor

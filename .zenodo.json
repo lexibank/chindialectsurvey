@@ -1,0 +1,36 @@
+{
+    "title": "CLDF dataset derived from the LSDO's \"Chin Dialect Data\" from 2019",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Johann-Mattis List"
+        },
+        {
+            "name": "Muhammad Zakaria"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Nathan Statezni",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Nathan Statezni",
+            "type": "Editor"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Language and Social Development Organization (2019): Chin dialect data collection. Yangon: LSDO.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}

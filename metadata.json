@@ -2,5 +2,6 @@
     "citation": "Language and Social Development Organization (2019): Chin dialect data collection. Yangon: LSDO.",
     "title": "CLDF dataset derived from the LSDO's \"Chin Dialect Data\" from 2019",
     "patron": "Johann-Mattis List",
-    "license": "https://creativecommons.org/licenses/by-nc/4.0/"
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "conceptlist": "LSDO-2019-462"
 }

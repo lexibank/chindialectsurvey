@@ -6,6 +6,9 @@ Cite the source dataset as
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
+
+Conceptlists in Concepticon:
+- [LSDO-2019-462](https://concepticon.clld.org/contributions/LSDO-2019-462)
 ## Notes
 
 This is an excerpts of a large collection of Chin dialect data of more than 100 different speakers, which we have reduced to 31 varieties for which the geographic locations were then added.

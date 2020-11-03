@@ -1,12 +1,11 @@
 from pathlib import Path
 
-from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank import progressbar
 import attr
 from clldutils.misc import slug
 from pylexibank import Concept, Language, FormSpec
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar
+
 
 @attr.s
 class CustomConcept(Concept):
@@ -47,17 +46,9 @@ class Dataset(BaseDataset):
         data = self.raw_dir.read_csv('wordlist.tsv', dicts=True, delimiter='\t')
         args.writer.add_sources()
         languages = args.writer.add_languages(lookup_factory="ID")
-        concepts = {}
-        for concept in self.concepts:
-            idx = concept["ID"].split("-")[-1] + "_" + slug(concept["ENGLISH"])
-            args.writer.add_concept(
-                    ID=idx,
-                    Name=concept['ENGLISH'],
-                    AlternativeName=concept['AlternativeName'],
-                    Concepticon_ID=concept['CONCEPTICON_ID'],
-                    Concepticon_Gloss=concept['CONCEPTICON_GLOSS'],
-                    )
-            concepts[concept['ENGLISH']] = idx
+        concepts = args.writer.add_concepts(
+            id_factory=lambda c: c.id.split("-")[-1] + "_" + slug(c.english), lookup_factory="Name"
+        )
 
         for row in progressbar(data, desc="cldfify"):
             if row["DOCULECT"] in languages:

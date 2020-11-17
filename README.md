@@ -31,9 +31,9 @@ This is an excerpts of a large collection of Chin dialect data of more than 100 
 - **Sources:** 1
 - **Synonymy:** 1.05
 - **Invalid lexemes:** 0
-- **Tokens:** 76,036
-- **Segments:** 169 (0 BIPA errors, 0 CTLS sound class errors, 169 CLTS modified)
-- **Inventory size (avg):** 53.26
+- **Tokens:** 76,037
+- **Segments:** 168 (0 BIPA errors, 0 CTLS sound class errors, 168 CLTS modified)
+- **Inventory size (avg):** 53.23
 
 ## Possible Improvements:
 

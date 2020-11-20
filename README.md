@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Language and Social Development Organization (2019): Chin dialect data collection. Yangon: LSDO.
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-By-4.0 license
 
 
 Conceptlists in Concepticon:
@@ -39,8 +39,8 @@ This is an excerpts of a large collection of Chin dialect data of more than 100 
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Author
-Muhammad Zakaria | | language mapping, orthography profile | Author
-Nathan Statezni | | data collector | DataCollector, Editor
+Johann-Mattis List | @LinguList | maintainer | Other 
+Muhammad Zakaria | | language mapping, orthography profile | Other
+Nathan Statezni | | data collector | DataCollector, Author
 
 

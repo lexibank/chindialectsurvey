@@ -7,20 +7,21 @@
     ],
     "creators": [
         {
-            "name": "Johann-Mattis List"
-        },
-        {
-            "name": "Muhammad Zakaria"
+            "name": "Nathan Statezni"
         }
     ],
     "contributors": [
         {
-            "name": "Nathan Statezni",
-            "type": "DataCollector"
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Muhammad Zakaria",
+            "type": "Other"
         },
         {
             "name": "Nathan Statezni",
-            "type": "Editor"
+            "type": "DataCollector"
         }
     ],
     "communities": [
@@ -31,6 +32,6 @@
     "upload_type": "dataset",
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Language and Social Development Organization (2019): Chin dialect data collection. Yangon: LSDO.</p>\n</blockquote>",
     "license": {
-        "id": "CC-BY-NC-4.0"
+        "id": "CC-BY-4.0"
     }
 }

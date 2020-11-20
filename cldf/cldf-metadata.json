@@ -7,7 +7,7 @@
         "http://concepticon.clld.org/contributions/LSDO-2019-462"
     ],
     "dc:isVersionOf": null,
-    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from the LSDO's \"Chin Dialect Data\" from 2019",
@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/chindialectsurvey",
-            "dc:created": "f363239"
+            "dc:created": "3a81a78"
         },
         {
             "rdf:type": "prov:Entity",

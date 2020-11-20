@@ -2,6 +2,6 @@
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Author
-Muhammad Zakaria | | language mapping, orthography profile | Author
-Nathan Statezni | | data collector | DataCollector, Editor
+Johann-Mattis List | @LinguList | maintainer | Other 
+Muhammad Zakaria | | language mapping, orthography profile | Other
+Nathan Statezni | | data collector | DataCollector, Author

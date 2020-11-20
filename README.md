@@ -6,6 +6,9 @@ Cite the source dataset as
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
+
+Conceptlists in Concepticon:
+- [LSDO-2019-462](https://concepticon.clld.org/contributions/LSDO-2019-462)
 ## Notes
 
 This is an excerpts of a large collection of Chin dialect data of more than 100 different speakers, which we have reduced to 31 varieties for which the geographic locations were then added.
@@ -28,17 +31,9 @@ This is an excerpts of a large collection of Chin dialect data of more than 100 
 - **Sources:** 1
 - **Synonymy:** 1.05
 - **Invalid lexemes:** 0
-- **Tokens:** 76,036
-- **Segments:** 169 (0 BIPA errors, 0 CTLS sound class errors, 169 CLTS modified)
-- **Inventory size (avg):** 53.26
-
-## Possible Improvements:
-
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Rawngtu Weilong [wela1234](http://glottolog.org/resource/languoid/id/wela1234)
-  - Rawngtu Ramtim [wela1234](http://glottolog.org/resource/languoid/id/wela1234)
-
-
+- **Tokens:** 75,449
+- **Segments:** 201 (0 BIPA errors, 0 CTLS sound class errors, 200 CLTS modified)
+- **Inventory size (avg):** 58.00
 
 # Contributors
 

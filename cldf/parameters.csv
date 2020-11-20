@@ -22,9 +22,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,AlternativeName
 21_west,west,1817,WEST,west
 22_water,water,948,WATER,water
 23_tobehotwater,to be hot (water),1286,HOT,to be hot (water)
-24_tobehotperson,to be hot (person),1286,HOT,to be hot (person)
+24_tobehotperson,to be hot (person),3818,HOT (FEELING HOT),to be hot (person)
 25_tobewarmwater,to be warm(water),1232,WARM,to be warm (water)
-26_tobecoldperson,to be cold (person),1287,COLD,to be cold (person)
+26_tobecoldperson,to be cold (person),3819,COLD (FEELING COLD),to be cold (person)
 27_tobecoldwater,to be cold (water),1287,COLD,to be cool (water)
 28_stream,stream,947,STREAM,stream
 29_river,river,666,RIVER,river
@@ -34,7 +34,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,AlternativeName
 33_dust,dust,2,DUST,dust
 34_stone,stone,857,STONE,stone
 35_sand,sand,671,SAND,sand
-36_lime,lime,982,LIME (FRUIT),lime (for betel chew)
+36_lime,lime,2540,LIME (MATERIAL),lime (for betel chew)
 37_gold,gold,1369,GOLD,gold
 38_silver,silver,759,SILVER,silver
 39_iron,iron,621,IRON,iron
@@ -51,14 +51,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,AlternativeName
 50_fruit,fruit,1507,FRUIT,fruit (tree)
 51_seed,seed,714,SEED,seed (tree)
 52_grass,grass,606,GRASS,grass (field/jungle)
-53_bambooshoot,bamboo shoot,2494,BAMBOO SHOOT,bamboo plant (large)
-54_mushroom,mushroom,641,MUSHROOM,bamboo shoot (edible)
-55_cane,cane/,,,mushroom
-56_kapok,kapok,2499,KAPOK TREE,cane/rattan
-57_sugercane,sugercane,146,SUGAR CANE,kapok
-58_betelnut,betel nut,217,BETELNUT,sugarcane
-59_opium,opium,2498,OPIUM,betel nut
-60_bambooplant,bamboo plant,,,opium
+53_bambooshoot,bamboo shoot,2494,BAMBOO SHOOT,bamboo shoot (edible)
+54_mushroom,mushroom,641,MUSHROOM,mushroom
+55_cane,cane/,,,cane/rattan
+56_kapok,kapok,2499,KAPOK TREE,kapok
+57_sugercane,sugercane,146,SUGAR CANE,sugarcane
+58_betelnut,betel nut,217,BETELNUT,betel nut
+59_opium,opium,2498,OPIUM,opium
+60_bambooplant,bamboo plant,1927,BAMBOO,bamboo plant (large)
 61_ricemilletbeer,"rice, millet beer",,,(rice/millet) beer
 62_banana,banana,868,BANANA,banana (fruit)
 63_mango,mango,2398,MANGO,mango (fruit)
@@ -331,7 +331,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,AlternativeName
 331_towipe,to wipe,1454,WIPE,to wipe
 332_torubscrub,"to rub, scrub",1449,RUB,to rub/scrub
 333_towash,to wash,1453,WASH,to wash (hands)
-334_towashclothes,to wash (clothes),2503,LAUNDER,to wash (clothes)
+334_towashclothes,to wash (clothes),2503,LAUNDER (WASH CLOTHES),to wash (clothes)
 335_tobathe,to bathe,138,BATHE,to bathe
 336_tohitbeat,"to hit, beat",1433,HIT,to hit/beat (with force)
 337_tosplit,to split,1437,SPLIT,to split

@@ -48,22 +48,22 @@ class Dataset(BaseDataset):
         args.writer.add_sources()
         languages = args.writer.add_languages(lookup_factory="ID")
         concepts = {}
-        for concept in self.concepts:
-            idx = concept["ID"].split("-")[-1] + "_" + slug(concept["ENGLISH"])
+        for concept in self.conceptlists[0].concepts.values():
+            idx = concept.id.split("-")[-1] + "_" + slug(concept.english)
             args.writer.add_concept(
                     ID=idx,
-                    Name=concept['ENGLISH'],
-                    AlternativeName=concept['AlternativeName'],
-                    Concepticon_ID=concept['CONCEPTICON_ID'],
-                    Concepticon_Gloss=concept['CONCEPTICON_GLOSS'],
+                    Name=concept.english,
+                    AlternativeName=concept.attributes['alternative_name'],
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss,
                     )
-            concepts[concept['ENGLISH']] = idx
+            concepts[concept.english] = idx
 
         for row in progressbar(data, desc="cldfify"):
             if row["DOCULECT"] in languages:
                 args.writer.add_forms_from_value(
                     Language_ID=row["DOCULECT"],
                     Parameter_ID=concepts[row["CONCEPT"]],
-                    Value=row["TRANSCRIPTION"],
+                    Value=row["TRANSCRIPTION"].replace('\x84', ''),
                     Source=["chinds"],
                 )

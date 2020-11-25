@@ -1,18 +1,21 @@
 Grapheme	IPA
+_.	+
+^_ᵐl	ⁿl
+^_ᵐd	ⁿd
+_$	NULL
+^_	NULL
 $	NULL
+.	+
+ᵐb	ⁿb
 &	NULL
 '$	NULL
 'kʰ	kʰ
 't	t
 )	NULL
 -	NULL
-<<<<<<< HEAD
-.	+
 .$	NULL
 ..	+
 ._	+
-=======
->>>>>>> cb2147f589f1f9d38bcd570de8c74d9770422dc5
 0	+
 =	NULL
 ?	ʔ
@@ -796,3 +799,11 @@ zw	z w
 ᵑkʰ	ⁿkʰ
 ẽ	ẽ
 ’	NULL
+^__	NULL
+^___	NULL
+__	+
+___	+
+__$	NULL
+_$	NULL
+___$	NULL
+_'$	NULL

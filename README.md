@@ -27,13 +27,21 @@ This is an excerpts of a large collection of Chin dialect data of more than 100 
 
 - **Varieties:** 31
 - **Concepts:** 460
-- **Lexemes:** 14,272
+- **Lexemes:** 14,271
 - **Sources:** 1
 - **Synonymy:** 1.05
 - **Invalid lexemes:** 0
-- **Tokens:** 75,449
+- **Tokens:** 75,436
 - **Segments:** 201 (0 BIPA errors, 0 CTLS sound class errors, 200 CLTS modified)
 - **Inventory size (avg):** 58.00
+
+## Possible Improvements:
+
+- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
+  - Rawngtu Weilong [wela1234](http://glottolog.org/resource/languoid/id/wela1234)
+  - Rawngtu Ramtim [wela1234](http://glottolog.org/resource/languoid/id/wela1234)
+
+
 
 # Contributors
 

@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/chindialectsurvey",
-            "dc:created": "3a81a78"
+            "dc:created": "5d05868"
         },
         {
             "rdf:type": "prov:Entity",
@@ -29,13 +29,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-16-g45b0f79"
+            "dc:created": "v2.4.0-17-ga0ae303"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4-72-gb2466e2"
+            "dc:created": "v1.4-78-g54b0f66"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -56,7 +56,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 14272,
+            "dc:extent": 14271,
             "tableSchema": {
                 "columns": [
                     {

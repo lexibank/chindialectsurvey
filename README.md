@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Language and Social Development Organization (2019): Chin dialect data collection. Yangon: LSDO.
 
-This dataset is licensed under a CC-By-4.0 license
+This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:

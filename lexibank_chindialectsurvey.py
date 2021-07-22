@@ -54,7 +54,7 @@ class Dataset(BaseDataset):
             args.writer.add_concept(
                     ID=idx,
                     Name=concept.english,
-                    AlternativeName=concept.attributes['alternativename'],
+                    AlternativeName=concept.attributes.get('alternativename'),
                     Concepticon_ID=concept.concepticon_id,
                     Concepticon_Gloss=concept.concepticon_gloss,
                     )

@@ -6646,8 +6646,8 @@
                 "t\u02d0": 9,
                 "u": 68,
                 "ui": 8,
-                "u\u032f": 3,
-                "w": 9,
+                "u\u032f": 1,
+                "w": 11,
                 "\u014b": 58,
                 "\u0254": 91,
                 "\u0254i": 7,
@@ -7276,7 +7276,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 466,
+                "+": 470,
                 "a": 1,
                 "b": 1,
                 "e": 32,
@@ -9940,7 +9940,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 212,
+                "+": 214,
                 "a": 1,
                 "a\u02d0": 1,
                 "b": 25,
@@ -13283,7 +13283,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 31,
+                "+": 36,
                 "a": 2,
                 "e": 7,
                 "ei": 1,
@@ -17969,7 +17969,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 182,
+                "+": 183,
                 "b": 32,
                 "b\u02b2": 3,
                 "d": 9,
@@ -20679,8 +20679,93 @@
         }
     },
     "stats": {
-        "bad_words": [],
-        "bad_words_count": 0,
+        "bad_words": [
+            [
+                "KaangKruk-A-143_hairhead-2",
+                "KaangKruk-A",
+                "143_hairhead",
+                "__\u0283\u0251m",
+                "+ \u0283 \u0251 m"
+            ],
+            [
+                "KaangKruk-A-173_fingernail-2",
+                "KaangKruk-A",
+                "173_fingernail",
+                "__tsin",
+                "+ ts i n"
+            ],
+            [
+                "KaangKruk-A-246_smoke-2",
+                "KaangKruk-A",
+                "246_smoke",
+                "__k\u02b0u",
+                "+ k\u02b0 u"
+            ],
+            [
+                "KaangKruk-A-339_tocuthair-3",
+                "KaangKruk-A",
+                "339_tocuthair",
+                "__m\u0254i_",
+                "+ m \u0254i"
+            ],
+            [
+                "LaituAhongdong-A-111_feather-1",
+                "LaituAhongdong-A",
+                "111_feather",
+                "__m\u0325ul",
+                "+ m\u0325 u l"
+            ],
+            [
+                "LaituAhongdong-A-325_toswim-1",
+                "LaituAhongdong-A",
+                "325_toswim",
+                "__j\u0259u\u0294",
+                "+ j \u0259u \u0294"
+            ],
+            [
+                "MuunNituShingBawk-A-104_tail-1",
+                "MuunNituShingBawk-A",
+                "104_tail",
+                "__me",
+                "+ m e"
+            ],
+            [
+                "MuunNituShingBawk-A-110_wing-1",
+                "MuunNituShingBawk-A",
+                "110_wing",
+                "__p\u02b0ia",
+                "+ p\u02b0 j a"
+            ],
+            [
+                "MuunNituShingBawk-A-113_egg-1",
+                "MuunNituShingBawk-A",
+                "113_egg",
+                "__tui",
+                "+ t u/w i"
+            ],
+            [
+                "MuunNituShingBawk-A-173_fingernail-1",
+                "MuunNituShingBawk-A",
+                "173_fingernail",
+                "___ts\u0268n",
+                "+ ts \u0268 n"
+            ],
+            [
+                "MuunNituShingBawk-A-339_tocuthair-1",
+                "MuunNituShingBawk-A",
+                "339_tocuthair",
+                "__\u02e4tei_",
+                "+ \u02c0t ei"
+            ],
+            [
+                "SumtuDookkan-A-228_todye-1",
+                "SumtuDookkan-A",
+                "228_todye",
+                "__t\u032f\u0254\u014b",
+                "+ t\u032f/\u0288 \u0254 \u014b"
+            ]
+        ],
+        "bad_words_count": 12,
         "bipa_errors": [],
         "general_errors": 0,
         "invalid_words": [],
@@ -21290,7 +21375,7 @@
         },
         "sclass_errors": [],
         "segments": {
-            "+": 13150,
+            "+": 13162,
             "a": 169,
             "ai": 13,
             "au": 3,
@@ -21365,9 +21450,9 @@
             "u/w": 658,
             "ui": 8,
             "u\u02d0": 42,
-            "u\u032f": 3,
+            "u\u032f": 1,
             "v": 407,
-            "w": 241,
+            "w": 243,
             "w\u0325": 1,
             "x": 74,
             "x\u02b0": 1,

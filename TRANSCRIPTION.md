@@ -5,7 +5,7 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| + | 13150 | ✓ | ✓ |
+| + | 13162 | ✓ | ✓ |
 | ɑ | 6343 | ✓ | ✓ |
 | ʔ | 4327 | ✓ | ✓ |
 | i | 3777 | ✓ | ✓ |
@@ -43,7 +43,7 @@
 | ɓ | 316 | ✓ | ✓ |
 | ɬ | 309 | ✓ | ✓ |
 | n̥ | 248 | ✓ | ✓ |
-| w | 241 | ✓ | ✓ |
+| w | 243 | ✓ | ✓ |
 | m̥ | 226 | ✓ | ✓ |
 | ei | 206 | ✓ | ✓ |
 | ɗ | 194 | ✓ | ✓ |
@@ -131,7 +131,6 @@
 | ˀkʰ | 4 | ✓ | ✓ |
 | au | 3 | ✓ | ✓ |
 | iu | 3 | ✓ | ✓ |
-| u̯ | 3 | ✓ | ✓ |
 | ɐ̃ | 3 | ✓ | ✓ |
 | ɑe | 3 | ✓ | ✓ |
 | ɒi | 3 | ✓ | ✓ |
@@ -173,6 +172,7 @@
 | tt | 1 | ✓ | ✓ |
 | t̩ | 1 | ✓ | ✓ |
 | t̪ | 1 | ✓ | ✓ |
+| u̯ | 1 | ✓ | ✓ |
 | w̥ | 1 | ✓ | ✓ |
 | xʰ | 1 | ✓ | ✓ |
 | ã | 1 | ✓ | ✓ |
@@ -223,8 +223,20 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|------|------------|-----------|--------|------------|
+|:-------------------------------------|:--------------------|:---------------|:--------|:-----------|
+| KaangKruk-A-143_hairhead-2 | KaangKruk-A | 143_hairhead | __ʃɑm | + ʃ ɑ m |
+| KaangKruk-A-173_fingernail-2 | KaangKruk-A | 173_fingernail | __tsin | + ts i n |
+| KaangKruk-A-246_smoke-2 | KaangKruk-A | 246_smoke | __kʰu | + kʰ u |
+| KaangKruk-A-339_tocuthair-3 | KaangKruk-A | 339_tocuthair | __mɔi_ | + m ɔi |
+| LaituAhongdong-A-111_feather-1 | LaituAhongdong-A | 111_feather | __m̥ul | + m̥ u l |
+| LaituAhongdong-A-325_toswim-1 | LaituAhongdong-A | 325_toswim | __jəuʔ | + j əu ʔ |
+| MuunNituShingBawk-A-104_tail-1 | MuunNituShingBawk-A | 104_tail | __me | + m e |
+| MuunNituShingBawk-A-110_wing-1 | MuunNituShingBawk-A | 110_wing | __pʰia | + pʰ j a |
+| MuunNituShingBawk-A-113_egg-1 | MuunNituShingBawk-A | 113_egg | __tui | + t u/w i |
+| MuunNituShingBawk-A-173_fingernail-1 | MuunNituShingBawk-A | 173_fingernail | ___tsɨn | + ts ɨ n |
+| MuunNituShingBawk-A-339_tocuthair-1 | MuunNituShingBawk-A | 339_tocuthair | __ˤtei_ | + ˀt ei |
+| SumtuDookkan-A-228_todye-1 | SumtuDookkan-A | 228_todye | __t̯ɔŋ | + t̯/ʈ ɔ ŋ |
 
-(0 rows)
+(12 rows)
 
 

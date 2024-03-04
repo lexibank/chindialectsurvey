@@ -27,7 +27,7 @@ This is an excerpts of a large collection of Chin dialect data of more than 100 
 
 
 [![CLDF validation](https://github.com/lexibank/chindialectsurvey/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/chindialectsurvey/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
+![Glottolog: 69%](https://img.shields.io/badge/Glottolog-69%25-orange.svg "Glottolog: 69%")
 ![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-green.svg "Concepticon: 99%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
@@ -40,20 +40,14 @@ This is an excerpts of a large collection of Chin dialect data of more than 100 
 - **Synonymy:** 1.05
 - **Invalid lexemes:** 0
 - **Tokens:** 75,448
-- **Segments:** 201 (0 BIPA errors, 0 CLTS sound class errors, 200 CLTS modified)
+- **Segments:** 201 (0 BIPA errors, 0 CTLS sound class errors, 200 CLTS modified)
 - **Inventory size (avg):** 58.00
 
 ## Possible Improvements:
 
 - Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Taungtha (Wethet) [rung1263](http://glottolog.org/resource/languoid/id/rung1263)
-  - Thaiphum (Rengkheng) [thai1262](http://glottolog.org/resource/languoid/id/thai1262)
-  - Doitu (Hetsawlay) [song1313](http://glottolog.org/resource/languoid/id/song1313)
-  - Laitu (Khuasung) [lait1239](http://glottolog.org/resource/languoid/id/lait1239)
-  - Laisaw Thu Htay Kung [lait1239](http://glottolog.org/resource/languoid/id/lait1239)
-  - Songlai-Hettui 8Karchaung (Hettui) [song1313](http://glottolog.org/resource/languoid/id/song1313)
-  - Songlai-Maung Um (Song) 1Maung Um (Song) [song1313](http://glottolog.org/resource/languoid/id/song1313)
-  - Laitu Ahongdong [lait1239](http://glottolog.org/resource/languoid/id/lait1239)
+  - Rawngtu Weilong [wela1234](http://glottolog.org/resource/languoid/id/wela1234)
+  - Rawngtu Ramtim [wela1234](http://glottolog.org/resource/languoid/id/wela1234)
 
 
 

@@ -8,6 +8,7 @@ from pylexibank import Concept, Language, FormSpec
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar
 
+
 @attr.s
 class CustomConcept(Concept):
     AlternativeName = attr.ib(default=None)
@@ -27,6 +28,7 @@ class CustomLanguage(Language):
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "chindialectsurvey"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
 
     # add your personalized data types here
     concept_class = CustomConcept

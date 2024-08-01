@@ -12,16 +12,16 @@
     ],
     "contributors": [
         {
+            "name": "Nathan Statezni",
+            "type": "DataCollector"
+        },
+        {
             "name": "Johann-Mattis List",
-            "type": "Other"
+            "type": "Editor"
         },
         {
             "name": "Muhammad Zakaria",
             "type": "Other"
-        },
-        {
-            "name": "Nathan Statezni",
-            "type": "DataCollector"
         }
     ],
     "communities": [

@@ -33,8 +33,8 @@ This is an excerpts of a large collection of Chin dialect data of more than 100 
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 31
-- **Concepts:** 460
+- **Varieties:** 31 (linked to 12 different Glottocodes)
+- **Concepts:** 460 (linked to 451 different Concepticon concept sets)
 - **Lexemes:** 14,271
 - **Sources:** 1
 - **Synonymy:** 1.05
@@ -61,9 +61,9 @@ This is an excerpts of a large collection of Chin dialect data of more than 100 
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Other 
-Muhammad Zakaria | | language mapping, orthography profile | Other
 Nathan Statezni | | data collector | DataCollector, Author
+Johann-Mattis List | @LinguList | maintainer | Editor
+Muhammad Zakaria | | language mapping, orthography profile | Other
 
 
 
